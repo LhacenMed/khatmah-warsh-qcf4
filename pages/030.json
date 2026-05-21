@@ -1,0 +1,1548 @@
+{
+  "page": 30,
+  "font": "QCF4_Warsh_03",
+  "surahs": [
+    {
+      "id": 2,
+      "name": "Al-Baqarah",
+      "name_arabic": "البقرة",
+      "verse_start": 190,
+      "verse_end": 195
+    }
+  ],
+  "lines": [
+    {
+      "line": 1,
+      "words": [
+        {
+          "code": 62136,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَاقْتُلُوهُمْ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 1
+        },
+        {
+          "code": 62137,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "حَيْثُ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 2
+        },
+        {
+          "code": 62138,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "ثَقِفْتُمُوهُمْ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 3
+        },
+        {
+          "code": 62139,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَأَخْرِجُوهُم",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 4
+        },
+        {
+          "code": 62140,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مِّنْ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 5
+        },
+        {
+          "code": 62141,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "حَيْثُ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 6
+        },
+        {
+          "code": 62142,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "أَخْرَجُوكُمْۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:190",
+          "position": 7
+        },
+        {
+          "code": 62144,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَالْفِتْنَةُ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "line": 2,
+      "words": [
+        {
+          "code": 62145,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "أَشَدُّ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 9
+        },
+        {
+          "code": 62146,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مِنَ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 10
+        },
+        {
+          "code": 62147,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لْقَتْلِۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:190",
+          "position": 11
+        },
+        {
+          "code": 62149,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَلَا",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 12
+        },
+        {
+          "code": 62150,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "تُقَٰتِلُوهُمْ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 13
+        },
+        {
+          "code": 62151,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "عِندَ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 14
+        },
+        {
+          "code": 62152,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لْمَسْجِدِ",
+          "type": "word_with_mark",
+          "verse_key": "2:190",
+          "position": 15
+        },
+        {
+          "code": 62153,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اِ۬لْحَرَامِ",
+          "type": "word_with_mark",
+          "verse_key": "2:190",
+          "position": 16
+        },
+        {
+          "code": 62154,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "حَتَّىٰ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 17
+        },
+        {
+          "code": 62155,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "يُقَٰتِلُوكُمْ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 18
+        }
+      ]
+    },
+    {
+      "line": 3,
+      "words": [
+        {
+          "code": 62156,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فِيهِۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:190",
+          "position": 19
+        },
+        {
+          "code": 62158,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَإِن",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 20
+        },
+        {
+          "code": 62159,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "قَٰتَلُوكُمْ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 21
+        },
+        {
+          "code": 62160,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَاقْتُلُوهُمْۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:190",
+          "position": 22
+        },
+        {
+          "code": 62162,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "كَذَٰلِكَ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 23
+        },
+        {
+          "code": 62163,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "جَزَآءُ",
+          "type": "word",
+          "verse_key": "2:190",
+          "position": 24
+        },
+        {
+          "code": 62164,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اُ۬لْكٰ۪فِرِينَۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:190",
+          "position": 25
+        },
+        {
+          "code": 62166,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "190",
+          "type": "aya_end",
+          "verse_key": "2:190",
+          "aya_num": 190
+        },
+        {
+          "code": 62167,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَإِنِ",
+          "type": "word",
+          "verse_key": "2:191",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "line": 4,
+      "words": [
+        {
+          "code": 62168,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اِ۪نتَهَوْاْ",
+          "type": "word_with_mark",
+          "verse_key": "2:191",
+          "position": 2
+        },
+        {
+          "code": 62169,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَإِنَّ",
+          "type": "word",
+          "verse_key": "2:191",
+          "position": 3
+        },
+        {
+          "code": 62170,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬للَّهَ",
+          "type": "word_with_mark",
+          "verse_key": "2:191",
+          "position": 4
+        },
+        {
+          "code": 62171,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "غَفُورٞ",
+          "type": "word",
+          "verse_key": "2:191",
+          "position": 5
+        },
+        {
+          "code": 62172,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "رَّحِيمٞۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:191",
+          "position": 6
+        },
+        {
+          "code": 62174,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "191",
+          "type": "aya_end",
+          "verse_key": "2:191",
+          "aya_num": 191
+        },
+        {
+          "code": 62175,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَقَٰتِلُوهُمْ",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 1
+        },
+        {
+          "code": 62176,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "حَتَّىٰ",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 2
+        },
+        {
+          "code": 62177,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "لَا",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 3
+        },
+        {
+          "code": 62178,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "تَكُونَ",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 4
+        },
+        {
+          "code": 62179,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فِتْنَةٞ",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "line": 5,
+      "words": [
+        {
+          "code": 62180,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَيَكُونَ",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 6
+        },
+        {
+          "code": 62181,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لدِّينُ",
+          "type": "word_with_mark",
+          "verse_key": "2:192",
+          "position": 7
+        },
+        {
+          "code": 62182,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "لِلهِۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:192",
+          "position": 8
+        },
+        {
+          "code": 62184,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَإِنِ",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 9
+        },
+        {
+          "code": 62185,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اِ۪نتَهَوْاْ",
+          "type": "word_with_mark",
+          "verse_key": "2:192",
+          "position": 10
+        },
+        {
+          "code": 62186,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَلَا",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 11
+        },
+        {
+          "code": 62187,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "عُدْوَٰنَ",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 12
+        },
+        {
+          "code": 62188,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "إِلَّا",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 13
+        },
+        {
+          "code": 62189,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "عَلَى",
+          "type": "word",
+          "verse_key": "2:192",
+          "position": 14
+        },
+        {
+          "code": 62190,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لظَّٰلِمِينَۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:192",
+          "position": 15
+        },
+        {
+          "code": 62192,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "192",
+          "type": "aya_end",
+          "verse_key": "2:192",
+          "aya_num": 192
+        },
+        {
+          "code": 62193,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لشَّهْرُ",
+          "type": "word_with_mark",
+          "verse_key": "2:193",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "line": 6,
+      "words": [
+        {
+          "code": 62194,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اُ۬لْحَرَامُ",
+          "type": "word_with_mark",
+          "verse_key": "2:193",
+          "position": 2
+        },
+        {
+          "code": 62195,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "بِالشَّهْرِ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 3
+        },
+        {
+          "code": 62196,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اِ۬لْحَرَامِ",
+          "type": "word_with_mark",
+          "verse_key": "2:193",
+          "position": 4
+        },
+        {
+          "code": 62197,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَالْحُرُمَٰتُ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 5
+        },
+        {
+          "code": 62198,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "قِصَاصٞۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:193",
+          "position": 6
+        },
+        {
+          "code": 62200,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَمَنِ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 7
+        },
+        {
+          "code": 62201,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اِ۪عْتَد۪ىٰ",
+          "type": "word_with_mark",
+          "verse_key": "2:193",
+          "position": 8
+        },
+        {
+          "code": 62202,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "عَلَيْكُمْ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "line": 7,
+      "words": [
+        {
+          "code": 62203,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَاعْتَدُواْ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 10
+        },
+        {
+          "code": 62204,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "عَلَيْهِ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 11
+        },
+        {
+          "code": 62205,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "بِمِثْلِ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 12
+        },
+        {
+          "code": 62206,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مَا",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 13
+        },
+        {
+          "code": 62207,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۪عْتَد۪ىٰ",
+          "type": "word_with_mark",
+          "verse_key": "2:193",
+          "position": 14
+        },
+        {
+          "code": 62208,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "عَلَيْكُمْۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:193",
+          "position": 15
+        },
+        {
+          "code": 62210,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَاتَّقُواْ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 16
+        },
+        {
+          "code": 62211,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اُ۬للَّهَ",
+          "type": "word_with_mark",
+          "verse_key": "2:193",
+          "position": 17
+        },
+        {
+          "code": 62212,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَاعْلَمُوٓاْ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 18
+        },
+        {
+          "code": 62213,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "أَنَّ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 19
+        },
+        {
+          "code": 62214,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬للَّهَ",
+          "type": "word_with_mark",
+          "verse_key": "2:193",
+          "position": 20
+        },
+        {
+          "code": 62215,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مَعَ",
+          "type": "word",
+          "verse_key": "2:193",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "line": 8,
+      "words": [
+        {
+          "code": 62216,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لْمُتَّقِينَۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:193",
+          "position": 22
+        },
+        {
+          "code": 62218,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "193",
+          "type": "aya_end",
+          "verse_key": "2:193",
+          "aya_num": 193
+        },
+        {
+          "code": 62219,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَأَنفِقُواْ",
+          "type": "word",
+          "verse_key": "2:194",
+          "position": 1
+        },
+        {
+          "code": 62220,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فِے",
+          "type": "word",
+          "verse_key": "2:194",
+          "position": 2
+        },
+        {
+          "code": 62221,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "سَبِيلِ",
+          "type": "word",
+          "verse_key": "2:194",
+          "position": 3
+        },
+        {
+          "code": 62222,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اِ۬للَّهِ",
+          "type": "word_with_mark",
+          "verse_key": "2:194",
+          "position": 4
+        },
+        {
+          "code": 62223,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَلَا",
+          "type": "word",
+          "verse_key": "2:194",
+          "position": 5
+        },
+        {
+          "code": 62224,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "تُلْقُواْ",
+          "type": "word",
+          "verse_key": "2:194",
+          "position": 6
+        },
+        {
+          "code": 62225,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "بِأَيْدِيكُمُۥٓ",
+          "type": "word_with_mark",
+          "verse_key": "2:194",
+          "position": 7
+        },
+        {
+          "code": 62226,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "إِلَى",
+          "type": "word",
+          "verse_key": "2:194",
+          "position": 8
+        },
+        {
+          "code": 62227,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لتَّهْلُكَةِ",
+          "type": "word_with_mark",
+          "verse_key": "2:194",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "line": 9,
+      "words": [
+        {
+          "code": 62228,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَأَحْسِنُوٓاْۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:194",
+          "position": 10
+        },
+        {
+          "code": 62230,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "إِنَّ",
+          "type": "word",
+          "verse_key": "2:194",
+          "position": 11
+        },
+        {
+          "code": 62231,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬للَّهَ",
+          "type": "word_with_mark",
+          "verse_key": "2:194",
+          "position": 12
+        },
+        {
+          "code": 62232,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "يُحِبُّ",
+          "type": "word",
+          "verse_key": "2:194",
+          "position": 13
+        },
+        {
+          "code": 62233,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اُ۬لْمُحْسِنِينَۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:194",
+          "position": 14
+        },
+        {
+          "code": 62235,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "194",
+          "type": "aya_end",
+          "verse_key": "2:194",
+          "aya_num": 194
+        },
+        {
+          "code": 62236,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَأَتِمُّواْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 1
+        },
+        {
+          "code": 62237,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اُ۬لْحَجَّ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 2
+        },
+        {
+          "code": 62238,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَالْعُمْرَةَ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 3
+        },
+        {
+          "code": 62239,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "لِلهِۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 4
+        },
+        {
+          "code": 62241,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَإِنُ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "line": 10,
+      "words": [
+        {
+          "code": 62242,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "ا۟حْصِرْتُمْ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 6
+        },
+        {
+          "code": 62243,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَمَا",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 7
+        },
+        {
+          "code": 62244,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۪سْتَيْسَرَ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 8
+        },
+        {
+          "code": 62245,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مِنَ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 9
+        },
+        {
+          "code": 62246,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لْهَدْيِۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 10
+        },
+        {
+          "code": 62248,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَلَا",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 11
+        },
+        {
+          "code": 62249,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "تَحْلِقُواْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 12
+        },
+        {
+          "code": 62250,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "رُءُوسَكُمْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 13
+        },
+        {
+          "code": 62251,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "حَتَّىٰ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 14
+        },
+        {
+          "code": 62252,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "يَبْلُغَ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "line": 11,
+      "words": [
+        {
+          "code": 62253,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لْهَدْيُ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 16
+        },
+        {
+          "code": 62254,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مَحِلَّهُۥۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 17
+        },
+        {
+          "code": 62256,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَمَن",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 18
+        },
+        {
+          "code": 62257,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "كَانَ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 19
+        },
+        {
+          "code": 62258,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مِنكُم",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 20
+        },
+        {
+          "code": 62259,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مَّرِيضاً",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 21
+        },
+        {
+          "code": 62260,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَوْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 22
+        },
+        {
+          "code": 62261,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "بِهِۦٓ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 23
+        },
+        {
+          "code": 62262,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "أَذىٗ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 24
+        },
+        {
+          "code": 62263,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مِّن",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 25
+        },
+        {
+          "code": 62264,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "رَّأْسِهِۦ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 26
+        },
+        {
+          "code": 62265,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَفِدْيَةٞ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 27
+        }
+      ]
+    },
+    {
+      "line": 12,
+      "words": [
+        {
+          "code": 62266,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مِّن",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 28
+        },
+        {
+          "code": 62267,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "صِيَامٍ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 29
+        },
+        {
+          "code": 62268,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَوْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 30
+        },
+        {
+          "code": 62269,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "صَدَقَةٍ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 31
+        },
+        {
+          "code": 62270,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَوْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 32
+        },
+        {
+          "code": 62271,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "نُسُكٖۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 33
+        },
+        {
+          "code": 62273,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَإِذَآ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 34
+        },
+        {
+          "code": 62274,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "أَمِنتُمْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 35
+        },
+        {
+          "code": 62275,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَمَن",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 36
+        },
+        {
+          "code": 62276,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "تَمَتَّعَ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 37
+        },
+        {
+          "code": 62277,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "بِالْعُمْرَةِ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 38
+        },
+        {
+          "code": 62278,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "إِلَى",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 39
+        },
+        {
+          "code": 62279,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لْحَجِّ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 40
+        },
+        {
+          "code": 62280,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَمَا",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "line": 13,
+      "words": [
+        {
+          "code": 62281,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۪سْتَيْسَرَ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 42
+        },
+        {
+          "code": 62282,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "مِنَ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 43
+        },
+        {
+          "code": 62283,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬لْهَدْيِۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 44
+        },
+        {
+          "code": 62285,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "۞",
+          "type": "special_standalone",
+          "verse_key": "2:195",
+          "position": 45
+        },
+        {
+          "code": 62286,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَمَن",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 46
+        },
+        {
+          "code": 62287,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "لَّمْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 47
+        },
+        {
+          "code": 62288,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "يَجِدْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 48
+        },
+        {
+          "code": 62289,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فَصِيَامُ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 49
+        },
+        {
+          "code": 62290,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "ثَلَٰثَةِ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 50
+        },
+        {
+          "code": 62291,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "أَيَّامٖ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 51
+        },
+        {
+          "code": 62292,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "فِے",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 52
+        },
+        {
+          "code": 62293,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اِ۬لْحَجِّ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 53
+        },
+        {
+          "code": 62294,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَسَبْعَةٍ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 54
+        }
+      ]
+    },
+    {
+      "line": 14,
+      "words": [
+        {
+          "code": 62295,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اِذَا",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 55
+        },
+        {
+          "code": 62296,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "رَجَعْتُمْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 56
+        },
+        {
+          "code": 62297,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "تِلْكَ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 57
+        },
+        {
+          "code": 62298,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "عَشَرَةٞ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 58
+        },
+        {
+          "code": 62299,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "كَامِلَةٞۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 59
+        },
+        {
+          "code": 62301,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "ذَٰلِكَ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 60
+        },
+        {
+          "code": 62302,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "لِمَن",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 61
+        },
+        {
+          "code": 62303,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "لَّمْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 62
+        },
+        {
+          "code": 62304,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "يَكُنَ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 63
+        },
+        {
+          "code": 62305,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَهْلُهُۥ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "line": 15,
+      "words": [
+        {
+          "code": 62306,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "حَاضِرِے",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 65
+        },
+        {
+          "code": 62307,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اِ۬لْمَسْجِدِ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 66
+        },
+        {
+          "code": 62308,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اِ۬لْحَرَامِۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 67
+        },
+        {
+          "code": 62310,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَاتَّقُواْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 68
+        },
+        {
+          "code": 62311,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اُ۬للَّهَ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 69
+        },
+        {
+          "code": 62312,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "وَاعْلَمُوٓاْ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 70
+        },
+        {
+          "code": 62313,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "أَنَّ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 71
+        },
+        {
+          "code": 62314,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اَ۬للَّهَ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 72
+        },
+        {
+          "code": 62315,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "شَدِيدُ",
+          "type": "word",
+          "verse_key": "2:195",
+          "position": 73
+        },
+        {
+          "code": 62316,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "اُ۬لْعِقَابِۖ",
+          "type": "word_with_mark",
+          "verse_key": "2:195",
+          "position": 74
+        },
+        {
+          "code": 62318,
+          "char": "",
+          "font": "QCF4_Warsh_03",
+          "text": "195",
+          "type": "aya_end",
+          "verse_key": "2:195",
+          "aya_num": 195
+        }
+      ]
+    }
+  ]
+}

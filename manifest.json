@@ -1,0 +1,18 @@
+{
+  "name": "khatmah-warsh-qcf4",
+  "owner": "LhacenMed",
+  "riwaya": "warsh",
+  "feature": "qcf4",
+  "version": "1.0.0",
+  "pages": 604,
+  "fontCount": 51,
+  "basePath": ".",
+  "fontsPath": "fonts/",
+  "pagesPath": "pages/",
+  "pageFilePattern": "pages/%03d.json",
+  "fontFilePattern": "fonts/{fontName}.ttf",
+  "cdn": {
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/LhacenMed/khatmah-warsh-qcf4@v1.0.0",
+    "raw": "https://raw.githubusercontent.com/LhacenMed/khatmah-warsh-qcf4/v1.0.0"
+  }
+}

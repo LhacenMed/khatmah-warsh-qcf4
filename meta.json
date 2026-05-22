@@ -1,0 +1,8124 @@
+{
+  "riwaya": "warsh",
+  "version": 1,
+  "surahs": [
+    {
+      "num": 1,
+      "name": "الفَاتِحة",
+      "name_en": "Al-Fatihah",
+      "name_complex": "Al-Fātiĥah",
+      "translated_name": "The Opener",
+      "type": "makki",
+      "revelation_order": 5,
+      "ayat": 7,
+      "bismillah_pre": true
+    },
+    {
+      "num": 2,
+      "name": "البَقَرَة",
+      "name_en": "Al-Baqarah",
+      "name_complex": "Al-Baqarah",
+      "translated_name": "The Cow",
+      "type": "madani",
+      "revelation_order": 87,
+      "ayat": 285,
+      "bismillah_pre": true
+    },
+    {
+      "num": 3,
+      "name": "آل عِمران",
+      "name_en": "Ali 'Imran",
+      "name_complex": "Āl-'Imrān",
+      "translated_name": "Family of Imran",
+      "type": "madani",
+      "revelation_order": 89,
+      "ayat": 200,
+      "bismillah_pre": true
+    },
+    {
+      "num": 4,
+      "name": "النِّسَاء",
+      "name_en": "An-Nisa",
+      "name_complex": "An-Nisā",
+      "translated_name": "The Women",
+      "type": "madani",
+      "revelation_order": 92,
+      "ayat": 175,
+      "bismillah_pre": true
+    },
+    {
+      "num": 5,
+      "name": "المَائدة",
+      "name_en": "Al-Ma'idah",
+      "name_complex": "Al-Māidah",
+      "translated_name": "The Table Spread",
+      "type": "madani",
+      "revelation_order": 112,
+      "ayat": 122,
+      "bismillah_pre": true
+    },
+    {
+      "num": 6,
+      "name": "الأنعَام",
+      "name_en": "Al-An'am",
+      "name_complex": "Al-Anām",
+      "translated_name": "The Cattle",
+      "type": "makki",
+      "revelation_order": 55,
+      "ayat": 167,
+      "bismillah_pre": true
+    },
+    {
+      "num": 7,
+      "name": "الأعرَاف",
+      "name_en": "Al-A'raf",
+      "name_complex": "Al-Arāf",
+      "translated_name": "The Heights",
+      "type": "makki",
+      "revelation_order": 39,
+      "ayat": 206,
+      "bismillah_pre": true
+    },
+    {
+      "num": 8,
+      "name": "الأنفَال",
+      "name_en": "Al-Anfal",
+      "name_complex": "Al-Anfāl",
+      "translated_name": "The Spoils of War",
+      "type": "madani",
+      "revelation_order": 88,
+      "ayat": 76,
+      "bismillah_pre": true
+    },
+    {
+      "num": 9,
+      "name": "التوبَة",
+      "name_en": "At-Tawbah",
+      "name_complex": "At-Tawbah",
+      "translated_name": "The Repentance",
+      "type": "madani",
+      "revelation_order": 113,
+      "ayat": 130,
+      "bismillah_pre": false
+    },
+    {
+      "num": 10,
+      "name": "يُونس",
+      "name_en": "Yunus",
+      "name_complex": "Yūnus",
+      "translated_name": "Jonah",
+      "type": "makki",
+      "revelation_order": 51,
+      "ayat": 109,
+      "bismillah_pre": true
+    },
+    {
+      "num": 11,
+      "name": "هُود",
+      "name_en": "Hud",
+      "name_complex": "Hūd",
+      "translated_name": "Hud",
+      "type": "makki",
+      "revelation_order": 52,
+      "ayat": 121,
+      "bismillah_pre": true
+    },
+    {
+      "num": 12,
+      "name": "يُوسُف",
+      "name_en": "Yusuf",
+      "name_complex": "Yūsuf",
+      "translated_name": "Joseph",
+      "type": "makki",
+      "revelation_order": 53,
+      "ayat": 111,
+      "bismillah_pre": true
+    },
+    {
+      "num": 13,
+      "name": "الرَّعد",
+      "name_en": "Ar-Ra'd",
+      "name_complex": "Ar-Rad",
+      "translated_name": "The Thunder",
+      "type": "madani",
+      "revelation_order": 96,
+      "ayat": 44,
+      "bismillah_pre": true
+    },
+    {
+      "num": 14,
+      "name": "إبراهِيم",
+      "name_en": "Ibrahim",
+      "name_complex": "Ibrāhīm",
+      "translated_name": "Abraham",
+      "type": "makki",
+      "revelation_order": 72,
+      "ayat": 54,
+      "bismillah_pre": true
+    },
+    {
+      "num": 15,
+      "name": "الحِجر",
+      "name_en": "Al-Hijr",
+      "name_complex": "Al-Ĥijr",
+      "translated_name": "The Rocky Tract",
+      "type": "makki",
+      "revelation_order": 54,
+      "ayat": 99,
+      "bismillah_pre": true
+    },
+    {
+      "num": 16,
+      "name": "النَّحل",
+      "name_en": "An-Nahl",
+      "name_complex": "An-Naĥl",
+      "translated_name": "The Bee",
+      "type": "makki",
+      "revelation_order": 70,
+      "ayat": 128,
+      "bismillah_pre": true
+    },
+    {
+      "num": 17,
+      "name": "الإسرَاء",
+      "name_en": "Al-Isra",
+      "name_complex": "Al-Isrā",
+      "translated_name": "The Night Journey",
+      "type": "makki",
+      "revelation_order": 50,
+      "ayat": 110,
+      "bismillah_pre": true
+    },
+    {
+      "num": 18,
+      "name": "الكَهف",
+      "name_en": "Al-Kahf",
+      "name_complex": "Al-Kahf",
+      "translated_name": "The Cave",
+      "type": "makki",
+      "revelation_order": 69,
+      "ayat": 105,
+      "bismillah_pre": true
+    },
+    {
+      "num": 19,
+      "name": "مَريَم",
+      "name_en": "Maryam",
+      "name_complex": "Maryam",
+      "translated_name": "Mary",
+      "type": "makki",
+      "revelation_order": 44,
+      "ayat": 99,
+      "bismillah_pre": true
+    },
+    {
+      "num": 20,
+      "name": "طه",
+      "name_en": "Ta-Ha",
+      "name_complex": "Ţāhā",
+      "translated_name": "Ta-Ha",
+      "type": "makki",
+      "revelation_order": 45,
+      "ayat": 134,
+      "bismillah_pre": true
+    },
+    {
+      "num": 21,
+      "name": "الأنبيَاء",
+      "name_en": "Al-Anbya",
+      "name_complex": "Al-Anbiyā",
+      "translated_name": "The Prophets",
+      "type": "makki",
+      "revelation_order": 73,
+      "ayat": 111,
+      "bismillah_pre": true
+    },
+    {
+      "num": 22,
+      "name": "الحج",
+      "name_en": "Al-Hajj",
+      "name_complex": "Al-Ĥajj",
+      "translated_name": "The Pilgrimage",
+      "type": "madani",
+      "revelation_order": 103,
+      "ayat": 76,
+      "bismillah_pre": true
+    },
+    {
+      "num": 23,
+      "name": "المؤمنُون",
+      "name_en": "Al-Mu'minun",
+      "name_complex": "Al-Muminūn",
+      "translated_name": "The Believers",
+      "type": "makki",
+      "revelation_order": 74,
+      "ayat": 119,
+      "bismillah_pre": true
+    },
+    {
+      "num": 24,
+      "name": "النور",
+      "name_en": "An-Nur",
+      "name_complex": "An-Nūr",
+      "translated_name": "The Light",
+      "type": "madani",
+      "revelation_order": 102,
+      "ayat": 62,
+      "bismillah_pre": true
+    },
+    {
+      "num": 25,
+      "name": "الفُرقَان",
+      "name_en": "Al-Furqan",
+      "name_complex": "Al-Furqān",
+      "translated_name": "The Criterion",
+      "type": "makki",
+      "revelation_order": 42,
+      "ayat": 77,
+      "bismillah_pre": true
+    },
+    {
+      "num": 26,
+      "name": "الشعراء",
+      "name_en": "Ash-Shu'ara",
+      "name_complex": "Ash-Shuarā",
+      "translated_name": "The Poets",
+      "type": "makki",
+      "revelation_order": 47,
+      "ayat": 226,
+      "bismillah_pre": true
+    },
+    {
+      "num": 27,
+      "name": "النَّمل",
+      "name_en": "An-Naml",
+      "name_complex": "An-Naml",
+      "translated_name": "The Ant",
+      "type": "makki",
+      "revelation_order": 48,
+      "ayat": 95,
+      "bismillah_pre": true
+    },
+    {
+      "num": 28,
+      "name": "القَصَص",
+      "name_en": "Al-Qasas",
+      "name_complex": "Al-Qaşaş",
+      "translated_name": "The Stories",
+      "type": "makki",
+      "revelation_order": 49,
+      "ayat": 88,
+      "bismillah_pre": true
+    },
+    {
+      "num": 29,
+      "name": "العَنكبُوت",
+      "name_en": "Al-'Ankabut",
+      "name_complex": "Al-Ankabūt",
+      "translated_name": "The Spider",
+      "type": "makki",
+      "revelation_order": 85,
+      "ayat": 69,
+      "bismillah_pre": true
+    },
+    {
+      "num": 30,
+      "name": "الرُّوم",
+      "name_en": "Ar-Rum",
+      "name_complex": "Ar-Rūm",
+      "translated_name": "The Romans",
+      "type": "makki",
+      "revelation_order": 84,
+      "ayat": 59,
+      "bismillah_pre": true
+    },
+    {
+      "num": 31,
+      "name": "لُقمَان",
+      "name_en": "Luqman",
+      "name_complex": "Luqmān",
+      "translated_name": "Luqman",
+      "type": "makki",
+      "revelation_order": 57,
+      "ayat": 33,
+      "bismillah_pre": true
+    },
+    {
+      "num": 32,
+      "name": "السَّجدة",
+      "name_en": "As-Sajdah",
+      "name_complex": "As-Sajdah",
+      "translated_name": "The Prostration",
+      "type": "makki",
+      "revelation_order": 75,
+      "ayat": 30,
+      "bismillah_pre": true
+    },
+    {
+      "num": 33,
+      "name": "الأحزَاب",
+      "name_en": "Al-Ahzab",
+      "name_complex": "Al-Aĥzāb",
+      "translated_name": "The Combined Forces",
+      "type": "madani",
+      "revelation_order": 90,
+      "ayat": 73,
+      "bismillah_pre": true
+    },
+    {
+      "num": 34,
+      "name": "سَبإ",
+      "name_en": "Saba",
+      "name_complex": "Saba",
+      "translated_name": "Sheba",
+      "type": "makki",
+      "revelation_order": 58,
+      "ayat": 54,
+      "bismillah_pre": true
+    },
+    {
+      "num": 35,
+      "name": "فَاطِر",
+      "name_en": "Fatir",
+      "name_complex": "Fāţir",
+      "translated_name": "Originator",
+      "type": "makki",
+      "revelation_order": 43,
+      "ayat": 46,
+      "bismillah_pre": true
+    },
+    {
+      "num": 36,
+      "name": "يسٓ",
+      "name_en": "Ya-Sin",
+      "name_complex": "Yā-Sīn",
+      "translated_name": "Ya Sin",
+      "type": "makki",
+      "revelation_order": 41,
+      "ayat": 82,
+      "bismillah_pre": true
+    },
+    {
+      "num": 37,
+      "name": "الصَّافَات",
+      "name_en": "As-Saffat",
+      "name_complex": "Aş-Şāffāt",
+      "translated_name": "Those who set the Ranks",
+      "type": "makki",
+      "revelation_order": 56,
+      "ayat": 182,
+      "bismillah_pre": true
+    },
+    {
+      "num": 38,
+      "name": "صٓ",
+      "name_en": "Sad",
+      "name_complex": "Şād",
+      "translated_name": "The Letter Sad",
+      "type": "makki",
+      "revelation_order": 38,
+      "ayat": 86,
+      "bismillah_pre": true
+    },
+    {
+      "num": 39,
+      "name": "الزُّمَر",
+      "name_en": "Az-Zumar",
+      "name_complex": "Az-Zumar",
+      "translated_name": "The Troops",
+      "type": "makki",
+      "revelation_order": 59,
+      "ayat": 72,
+      "bismillah_pre": true
+    },
+    {
+      "num": 40,
+      "name": "غَافِر",
+      "name_en": "Ghafir",
+      "name_complex": "Ghāfir",
+      "translated_name": "The Forgiver",
+      "type": "makki",
+      "revelation_order": 60,
+      "ayat": 84,
+      "bismillah_pre": true
+    },
+    {
+      "num": 41,
+      "name": "فُصِّلَت",
+      "name_en": "Fussilat",
+      "name_complex": "Fuşşilat",
+      "translated_name": "Explained in Detail",
+      "type": "makki",
+      "revelation_order": 61,
+      "ayat": 53,
+      "bismillah_pre": true
+    },
+    {
+      "num": 42,
+      "name": "الشُّوري",
+      "name_en": "Ash-Shuraa",
+      "name_complex": "Ash-Shūrā",
+      "translated_name": "The Consultation",
+      "type": "makki",
+      "revelation_order": 62,
+      "ayat": 50,
+      "bismillah_pre": true
+    },
+    {
+      "num": 43,
+      "name": "الزُّخرُف",
+      "name_en": "Az-Zukhruf",
+      "name_complex": "Az-Zukhruf",
+      "translated_name": "The Ornaments of Gold",
+      "type": "makki",
+      "revelation_order": 63,
+      "ayat": 89,
+      "bismillah_pre": true
+    },
+    {
+      "num": 44,
+      "name": "الدُّخان",
+      "name_en": "Ad-Dukhan",
+      "name_complex": "Ad-Dukhān",
+      "translated_name": "The Smoke",
+      "type": "makki",
+      "revelation_order": 64,
+      "ayat": 56,
+      "bismillah_pre": true
+    },
+    {
+      "num": 45,
+      "name": "الجاثِية",
+      "name_en": "Al-Jathiyah",
+      "name_complex": "Al-Jāthiyah",
+      "translated_name": "The Crouching",
+      "type": "makki",
+      "revelation_order": 65,
+      "ayat": 36,
+      "bismillah_pre": true
+    },
+    {
+      "num": 46,
+      "name": "الأحقَاف",
+      "name_en": "Al-Ahqaf",
+      "name_complex": "Al-Aĥqāf",
+      "translated_name": "The Wind-Curved Sandhills",
+      "type": "makki",
+      "revelation_order": 66,
+      "ayat": 34,
+      "bismillah_pre": true
+    },
+    {
+      "num": 47,
+      "name": "مُحمد",
+      "name_en": "Muhammad",
+      "name_complex": "Muĥammad",
+      "translated_name": "Muhammad",
+      "type": "madani",
+      "revelation_order": 95,
+      "ayat": 39,
+      "bismillah_pre": true
+    },
+    {
+      "num": 48,
+      "name": "الفَتح",
+      "name_en": "Al-Fath",
+      "name_complex": "Al-Fatĥ",
+      "translated_name": "The Victory",
+      "type": "madani",
+      "revelation_order": 111,
+      "ayat": 29,
+      "bismillah_pre": true
+    },
+    {
+      "num": 49,
+      "name": "الحُجُرَات",
+      "name_en": "Al-Hujurat",
+      "name_complex": "Al-Ĥujurāt",
+      "translated_name": "The Rooms",
+      "type": "madani",
+      "revelation_order": 106,
+      "ayat": 18,
+      "bismillah_pre": true
+    },
+    {
+      "num": 50,
+      "name": "قٓ",
+      "name_en": "Qaf",
+      "name_complex": "Qāf",
+      "translated_name": "The Letter Qaf",
+      "type": "makki",
+      "revelation_order": 34,
+      "ayat": 45,
+      "bismillah_pre": true
+    },
+    {
+      "num": 51,
+      "name": "الذَّاريَات",
+      "name_en": "Adh-Dhariyat",
+      "name_complex": "Adh-Dhāriyāt",
+      "translated_name": "The Winnowing Winds",
+      "type": "makki",
+      "revelation_order": 67,
+      "ayat": 60,
+      "bismillah_pre": true
+    },
+    {
+      "num": 52,
+      "name": "الطُّور",
+      "name_en": "At-Tur",
+      "name_complex": "Aţ-Ţūr",
+      "translated_name": "The Mount",
+      "type": "makki",
+      "revelation_order": 76,
+      "ayat": 47,
+      "bismillah_pre": true
+    },
+    {
+      "num": 53,
+      "name": "النَّجم",
+      "name_en": "An-Najm",
+      "name_complex": "An-Najm",
+      "translated_name": "The Star",
+      "type": "makki",
+      "revelation_order": 23,
+      "ayat": 61,
+      "bismillah_pre": true
+    },
+    {
+      "num": 54,
+      "name": "القَمَر",
+      "name_en": "Al-Qamar",
+      "name_complex": "Al-Qamar",
+      "translated_name": "The Moon",
+      "type": "makki",
+      "revelation_order": 37,
+      "ayat": 55,
+      "bismillah_pre": true
+    },
+    {
+      "num": 55,
+      "name": "الرَّحمٰن",
+      "name_en": "Ar-Rahman",
+      "name_complex": "Ar-Raĥmān",
+      "translated_name": "The Beneficent",
+      "type": "madani",
+      "revelation_order": 97,
+      "ayat": 77,
+      "bismillah_pre": true
+    },
+    {
+      "num": 56,
+      "name": "الوَاقِعة",
+      "name_en": "Al-Waqi'ah",
+      "name_complex": "Al-Wāqiah",
+      "translated_name": "The Inevitable",
+      "type": "makki",
+      "revelation_order": 46,
+      "ayat": 99,
+      "bismillah_pre": true
+    },
+    {
+      "num": 57,
+      "name": "الحدِيد",
+      "name_en": "Al-Hadid",
+      "name_complex": "Al-Ĥadīd",
+      "translated_name": "The Iron",
+      "type": "madani",
+      "revelation_order": 94,
+      "ayat": 28,
+      "bismillah_pre": true
+    },
+    {
+      "num": 58,
+      "name": "المُجَادلة",
+      "name_en": "Al-Mujadila",
+      "name_complex": "Al-Mujādilah",
+      "translated_name": "The Pleading Woman",
+      "type": "madani",
+      "revelation_order": 105,
+      "ayat": 21,
+      "bismillah_pre": true
+    },
+    {
+      "num": 59,
+      "name": "الحَشر",
+      "name_en": "Al-Hashr",
+      "name_complex": "Al-Ĥashr",
+      "translated_name": "The Exile",
+      "type": "madani",
+      "revelation_order": 101,
+      "ayat": 24,
+      "bismillah_pre": true
+    },
+    {
+      "num": 60,
+      "name": "المُمتَحنَة",
+      "name_en": "Al-Mumtahanah",
+      "name_complex": "Al-Mumtaĥanah",
+      "translated_name": "She that is to be examined",
+      "type": "madani",
+      "revelation_order": 91,
+      "ayat": 13,
+      "bismillah_pre": true
+    },
+    {
+      "num": 61,
+      "name": "الصَّف",
+      "name_en": "As-Saf",
+      "name_complex": "Aş-Şaf",
+      "translated_name": "The Ranks",
+      "type": "madani",
+      "revelation_order": 109,
+      "ayat": 14,
+      "bismillah_pre": true
+    },
+    {
+      "num": 62,
+      "name": "الجُمعَة",
+      "name_en": "Al-Jumu'ah",
+      "name_complex": "Al-Jumuah",
+      "translated_name": "The Congregation Friday",
+      "type": "madani",
+      "revelation_order": 110,
+      "ayat": 11,
+      "bismillah_pre": true
+    },
+    {
+      "num": 63,
+      "name": "المُنَافِقُونَ",
+      "name_en": "Al-Munafiqun",
+      "name_complex": "Al-Munāfiqūn",
+      "translated_name": "The Hypocrites",
+      "type": "madani",
+      "revelation_order": 104,
+      "ayat": 11,
+      "bismillah_pre": true
+    },
+    {
+      "num": 64,
+      "name": "التغَابُن",
+      "name_en": "At-Taghabun",
+      "name_complex": "At-Taghābun",
+      "translated_name": "The Mutual Disillusion",
+      "type": "madani",
+      "revelation_order": 108,
+      "ayat": 18,
+      "bismillah_pre": true
+    },
+    {
+      "num": 65,
+      "name": "الطَّلَاق",
+      "name_en": "At-Talaq",
+      "name_complex": "Aţ-Ţalāq",
+      "translated_name": "The Divorce",
+      "type": "madani",
+      "revelation_order": 99,
+      "ayat": 12,
+      "bismillah_pre": true
+    },
+    {
+      "num": 66,
+      "name": "التَّحرِيم",
+      "name_en": "At-Tahrim",
+      "name_complex": "At-Taĥrīm",
+      "translated_name": "The Prohibition",
+      "type": "madani",
+      "revelation_order": 107,
+      "ayat": 12,
+      "bismillah_pre": true
+    },
+    {
+      "num": 67,
+      "name": "المُلك",
+      "name_en": "Al-Mulk",
+      "name_complex": "Al-Mulk",
+      "translated_name": "The Sovereignty",
+      "type": "makki",
+      "revelation_order": 77,
+      "ayat": 31,
+      "bismillah_pre": true
+    },
+    {
+      "num": 68,
+      "name": "القَلَم",
+      "name_en": "Al-Qalam",
+      "name_complex": "Al-Qalam",
+      "translated_name": "The Pen",
+      "type": "makki",
+      "revelation_order": 2,
+      "ayat": 52,
+      "bismillah_pre": true
+    },
+    {
+      "num": 69,
+      "name": "الحَاقة",
+      "name_en": "Al-Haqqah",
+      "name_complex": "Al-Ĥāqqah",
+      "translated_name": "The Reality",
+      "type": "makki",
+      "revelation_order": 78,
+      "ayat": 52,
+      "bismillah_pre": true
+    },
+    {
+      "num": 70,
+      "name": "المَعَارج",
+      "name_en": "Al-Ma'arij",
+      "name_complex": "Al-Māarij",
+      "translated_name": "The Ascending Stairways",
+      "type": "makki",
+      "revelation_order": 79,
+      "ayat": 44,
+      "bismillah_pre": true
+    },
+    {
+      "num": 71,
+      "name": "نُوح",
+      "name_en": "Nuh",
+      "name_complex": "Nūĥ",
+      "translated_name": "Noah",
+      "type": "makki",
+      "revelation_order": 71,
+      "ayat": 30,
+      "bismillah_pre": true
+    },
+    {
+      "num": 72,
+      "name": "الجِن",
+      "name_en": "Al-Jinn",
+      "name_complex": "Al-Jinn",
+      "translated_name": "The Jinn",
+      "type": "makki",
+      "revelation_order": 40,
+      "ayat": 28,
+      "bismillah_pre": true
+    },
+    {
+      "num": 73,
+      "name": "المُزمل",
+      "name_en": "Al-Muzzammil",
+      "name_complex": "Al-Muzzammil",
+      "translated_name": "The Enshrouded One",
+      "type": "makki",
+      "revelation_order": 3,
+      "ayat": 18,
+      "bismillah_pre": true
+    },
+    {
+      "num": 74,
+      "name": "المُدثر",
+      "name_en": "Al-Muddaththir",
+      "name_complex": "Al-Muddaththir",
+      "translated_name": "The Cloaked One",
+      "type": "makki",
+      "revelation_order": 4,
+      "ayat": 55,
+      "bismillah_pre": true
+    },
+    {
+      "num": 75,
+      "name": "القِيَامة",
+      "name_en": "Al-Qiyamah",
+      "name_complex": "Al-Qiyāmah",
+      "translated_name": "The Resurrection",
+      "type": "makki",
+      "revelation_order": 31,
+      "ayat": 39,
+      "bismillah_pre": true
+    },
+    {
+      "num": 76,
+      "name": "الإنسَان",
+      "name_en": "Al-Insan",
+      "name_complex": "Al-Insān",
+      "translated_name": "The Man",
+      "type": "madani",
+      "revelation_order": 98,
+      "ayat": 31,
+      "bismillah_pre": true
+    },
+    {
+      "num": 77,
+      "name": "المُرسَلات",
+      "name_en": "Al-Mursalat",
+      "name_complex": "Al-Mursalāt",
+      "translated_name": "The Emissaries",
+      "type": "makki",
+      "revelation_order": 33,
+      "ayat": 50,
+      "bismillah_pre": true
+    },
+    {
+      "num": 78,
+      "name": "النَّبَإ",
+      "name_en": "An-Naba",
+      "name_complex": "An-Naba",
+      "translated_name": "The Tidings",
+      "type": "makki",
+      "revelation_order": 80,
+      "ayat": 40,
+      "bismillah_pre": true
+    },
+    {
+      "num": 79,
+      "name": "النَّازعَات",
+      "name_en": "An-Nazi'at",
+      "name_complex": "An-Nāziāt",
+      "translated_name": "Those who drag forth",
+      "type": "makki",
+      "revelation_order": 81,
+      "ayat": 45,
+      "bismillah_pre": true
+    },
+    {
+      "num": 80,
+      "name": "عَبَسَ",
+      "name_en": "Abasa",
+      "name_complex": "Abasa",
+      "translated_name": "He Frowned",
+      "type": "makki",
+      "revelation_order": 24,
+      "ayat": 42,
+      "bismillah_pre": true
+    },
+    {
+      "num": 81,
+      "name": "التَّكوير",
+      "name_en": "At-Takwir",
+      "name_complex": "At-Takwīr",
+      "translated_name": "The Overthrowing",
+      "type": "makki",
+      "revelation_order": 7,
+      "ayat": 29,
+      "bismillah_pre": true
+    },
+    {
+      "num": 82,
+      "name": "الانفِطَار",
+      "name_en": "Al-Infitar",
+      "name_complex": "Al-Infiţār",
+      "translated_name": "The Cleaving",
+      "type": "makki",
+      "revelation_order": 82,
+      "ayat": 19,
+      "bismillah_pre": true
+    },
+    {
+      "num": 83,
+      "name": "المُطَففين",
+      "name_en": "Al-Mutaffifin",
+      "name_complex": "Al-Muţaffifīn",
+      "translated_name": "The Defrauding",
+      "type": "makki",
+      "revelation_order": 86,
+      "ayat": 36,
+      "bismillah_pre": true
+    },
+    {
+      "num": 84,
+      "name": "الانشِقَاق",
+      "name_en": "Al-Inshiqaq",
+      "name_complex": "Al-Inshiqāq",
+      "translated_name": "The Sundering",
+      "type": "makki",
+      "revelation_order": 83,
+      "ayat": 25,
+      "bismillah_pre": true
+    },
+    {
+      "num": 85,
+      "name": "البُرُوج",
+      "name_en": "Al-Buruj",
+      "name_complex": "Al-Burūj",
+      "translated_name": "The Mansions of the Stars",
+      "type": "makki",
+      "revelation_order": 27,
+      "ayat": 22,
+      "bismillah_pre": true
+    },
+    {
+      "num": 86,
+      "name": "الطَّارق",
+      "name_en": "At-Tariq",
+      "name_complex": "Aţ-Ţāriq",
+      "translated_name": "The Nightcommer",
+      "type": "makki",
+      "revelation_order": 36,
+      "ayat": 17,
+      "bismillah_pre": true
+    },
+    {
+      "num": 87,
+      "name": "الأعلى",
+      "name_en": "Al-A'la",
+      "name_complex": "Al-Alā",
+      "translated_name": "The Most High",
+      "type": "makki",
+      "revelation_order": 8,
+      "ayat": 19,
+      "bismillah_pre": true
+    },
+    {
+      "num": 88,
+      "name": "الغَاشِية",
+      "name_en": "Al-Ghashiyah",
+      "name_complex": "Al-Ghāshiyah",
+      "translated_name": "The Overwhelming",
+      "type": "makki",
+      "revelation_order": 68,
+      "ayat": 26,
+      "bismillah_pre": true
+    },
+    {
+      "num": 89,
+      "name": "الفَجر",
+      "name_en": "Al-Fajr",
+      "name_complex": "Al-Fajr",
+      "translated_name": "The Dawn",
+      "type": "makki",
+      "revelation_order": 10,
+      "ayat": 32,
+      "bismillah_pre": true
+    },
+    {
+      "num": 90,
+      "name": "البَلَد",
+      "name_en": "Al-Balad",
+      "name_complex": "Al-Balad",
+      "translated_name": "The City",
+      "type": "makki",
+      "revelation_order": 35,
+      "ayat": 20,
+      "bismillah_pre": true
+    },
+    {
+      "num": 91,
+      "name": "الشَّمس",
+      "name_en": "Ash-Shams",
+      "name_complex": "Ash-Shams",
+      "translated_name": "The Sun",
+      "type": "makki",
+      "revelation_order": 26,
+      "ayat": 15,
+      "bismillah_pre": true
+    },
+    {
+      "num": 92,
+      "name": "اللَّيل",
+      "name_en": "Al-Layl",
+      "name_complex": "Al-Layl",
+      "translated_name": "The Night",
+      "type": "makki",
+      "revelation_order": 9,
+      "ayat": 21,
+      "bismillah_pre": true
+    },
+    {
+      "num": 93,
+      "name": "الضُّحى",
+      "name_en": "Ad-Duha",
+      "name_complex": "Ad-Duĥā",
+      "translated_name": "The Morning Hours",
+      "type": "makki",
+      "revelation_order": 11,
+      "ayat": 11,
+      "bismillah_pre": true
+    },
+    {
+      "num": 94,
+      "name": "الشَّرح",
+      "name_en": "Ash-Sharh",
+      "name_complex": "Ash-Sharĥ",
+      "translated_name": "The Relief",
+      "type": "makki",
+      "revelation_order": 12,
+      "ayat": 8,
+      "bismillah_pre": true
+    },
+    {
+      "num": 95,
+      "name": "التِّين",
+      "name_en": "At-Tin",
+      "name_complex": "At-Tīn",
+      "translated_name": "The Fig",
+      "type": "makki",
+      "revelation_order": 28,
+      "ayat": 8,
+      "bismillah_pre": true
+    },
+    {
+      "num": 96,
+      "name": "العَلَق",
+      "name_en": "Al-Alaq",
+      "name_complex": "Al-Alaq",
+      "translated_name": "The Clot",
+      "type": "makki",
+      "revelation_order": 1,
+      "ayat": 20,
+      "bismillah_pre": true
+    },
+    {
+      "num": 97,
+      "name": "القَدر",
+      "name_en": "Al-Qadr",
+      "name_complex": "Al-Qadr",
+      "translated_name": "The Power",
+      "type": "makki",
+      "revelation_order": 25,
+      "ayat": 5,
+      "bismillah_pre": true
+    },
+    {
+      "num": 98,
+      "name": "البَينَة",
+      "name_en": "Al-Bayyinah",
+      "name_complex": "Al-Bayyinah",
+      "translated_name": "The Clear Proof",
+      "type": "madani",
+      "revelation_order": 100,
+      "ayat": 8,
+      "bismillah_pre": true
+    },
+    {
+      "num": 99,
+      "name": "الزَّلزَلة",
+      "name_en": "Az-Zalzalah",
+      "name_complex": "Az-Zalzalah",
+      "translated_name": "The Earthquake",
+      "type": "madani",
+      "revelation_order": 93,
+      "ayat": 9,
+      "bismillah_pre": true
+    },
+    {
+      "num": 100,
+      "name": "العَاديَات",
+      "name_en": "Al-Adiyat",
+      "name_complex": "Al-Ādiyāt",
+      "translated_name": "The Courser",
+      "type": "makki",
+      "revelation_order": 14,
+      "ayat": 11,
+      "bismillah_pre": true
+    },
+    {
+      "num": 101,
+      "name": "القَارعَة",
+      "name_en": "Al-Qari'ah",
+      "name_complex": "Al-Qāriah",
+      "translated_name": "The Calamity",
+      "type": "makki",
+      "revelation_order": 30,
+      "ayat": 10,
+      "bismillah_pre": true
+    },
+    {
+      "num": 102,
+      "name": "التَّكاثُر",
+      "name_en": "At-Takathur",
+      "name_complex": "At-Takāthur",
+      "translated_name": "Rivalry in World Increase",
+      "type": "makki",
+      "revelation_order": 16,
+      "ayat": 8,
+      "bismillah_pre": true
+    },
+    {
+      "num": 103,
+      "name": "العَصر",
+      "name_en": "Al-Asr",
+      "name_complex": "Al-Aşr",
+      "translated_name": "The Declining Day",
+      "type": "makki",
+      "revelation_order": 13,
+      "ayat": 3,
+      "bismillah_pre": true
+    },
+    {
+      "num": 104,
+      "name": "الهُمَزة",
+      "name_en": "Al-Humazah",
+      "name_complex": "Al-Humazah",
+      "translated_name": "The Traducer",
+      "type": "makki",
+      "revelation_order": 32,
+      "ayat": 9,
+      "bismillah_pre": true
+    },
+    {
+      "num": 105,
+      "name": "الفِيل",
+      "name_en": "Al-Fil",
+      "name_complex": "Al-Fīl",
+      "translated_name": "The Elephant",
+      "type": "makki",
+      "revelation_order": 19,
+      "ayat": 5,
+      "bismillah_pre": true
+    },
+    {
+      "num": 106,
+      "name": "قُرَيش",
+      "name_en": "Quraysh",
+      "name_complex": "Quraysh",
+      "translated_name": "Quraysh",
+      "type": "makki",
+      "revelation_order": 29,
+      "ayat": 5,
+      "bismillah_pre": true
+    },
+    {
+      "num": 107,
+      "name": "المَاعُون",
+      "name_en": "Al-Ma'un",
+      "name_complex": "Al-Māūn",
+      "translated_name": "The Small Kindnesses",
+      "type": "makki",
+      "revelation_order": 17,
+      "ayat": 6,
+      "bismillah_pre": true
+    },
+    {
+      "num": 108,
+      "name": "الكَوثر",
+      "name_en": "Al-Kawthar",
+      "name_complex": "Al-Kawthar",
+      "translated_name": "The Abundant Goodness",
+      "type": "makki",
+      "revelation_order": 15,
+      "ayat": 3,
+      "bismillah_pre": true
+    },
+    {
+      "num": 109,
+      "name": "الكافِرون",
+      "name_en": "Al-Kafirun",
+      "name_complex": "Al-Kāfirūn",
+      "translated_name": "The Disbelievers",
+      "type": "makki",
+      "revelation_order": 18,
+      "ayat": 6,
+      "bismillah_pre": true
+    },
+    {
+      "num": 110,
+      "name": "النَّصر",
+      "name_en": "An-Nasr",
+      "name_complex": "An-Naşr",
+      "translated_name": "The Divine Support",
+      "type": "madani",
+      "revelation_order": 114,
+      "ayat": 3,
+      "bismillah_pre": true
+    },
+    {
+      "num": 111,
+      "name": "المَسَد",
+      "name_en": "Al-Masad",
+      "name_complex": "Al-Masad",
+      "translated_name": "The Palm Fibre",
+      "type": "makki",
+      "revelation_order": 6,
+      "ayat": 5,
+      "bismillah_pre": true
+    },
+    {
+      "num": 112,
+      "name": "الإخلَاص",
+      "name_en": "Al-Ikhlas",
+      "name_complex": "Al-Ikhlāş",
+      "translated_name": "The Sincerity",
+      "type": "makki",
+      "revelation_order": 22,
+      "ayat": 4,
+      "bismillah_pre": true
+    },
+    {
+      "num": 113,
+      "name": "الفَلَق",
+      "name_en": "Al-Falaq",
+      "name_complex": "Al-Falaq",
+      "translated_name": "The Daybreak",
+      "type": "makki",
+      "revelation_order": 20,
+      "ayat": 5,
+      "bismillah_pre": true
+    },
+    {
+      "num": 114,
+      "name": "النَّاس",
+      "name_en": "An-Nas",
+      "name_complex": "An-Nās",
+      "translated_name": "Mankind",
+      "type": "makki",
+      "revelation_order": 21,
+      "ayat": 6,
+      "bismillah_pre": true
+    }
+  ],
+  "juzaa": [
+    {
+      "num": 1,
+      "sura": 1,
+      "aya": 1
+    },
+    {
+      "num": 2,
+      "sura": 2,
+      "aya": 141
+    },
+    {
+      "num": 3,
+      "sura": 2,
+      "aya": 251
+    },
+    {
+      "num": 4,
+      "sura": 3,
+      "aya": 91
+    },
+    {
+      "num": 5,
+      "sura": 4,
+      "aya": 24
+    },
+    {
+      "num": 6,
+      "sura": 4,
+      "aya": 147
+    },
+    {
+      "num": 7,
+      "sura": 5,
+      "aya": 84
+    },
+    {
+      "num": 8,
+      "sura": 6,
+      "aya": 112
+    },
+    {
+      "num": 9,
+      "sura": 7,
+      "aya": 87
+    },
+    {
+      "num": 10,
+      "sura": 8,
+      "aya": 41
+    },
+    {
+      "num": 11,
+      "sura": 9,
+      "aya": 94
+    },
+    {
+      "num": 12,
+      "sura": 11,
+      "aya": 6
+    },
+    {
+      "num": 13,
+      "sura": 12,
+      "aya": 53
+    },
+    {
+      "num": 14,
+      "sura": 15,
+      "aya": 1
+    },
+    {
+      "num": 15,
+      "sura": 17,
+      "aya": 1
+    },
+    {
+      "num": 16,
+      "sura": 18,
+      "aya": 74
+    },
+    {
+      "num": 17,
+      "sura": 21,
+      "aya": 1
+    },
+    {
+      "num": 18,
+      "sura": 23,
+      "aya": 1
+    },
+    {
+      "num": 19,
+      "sura": 25,
+      "aya": 21
+    },
+    {
+      "num": 20,
+      "sura": 27,
+      "aya": 58
+    },
+    {
+      "num": 21,
+      "sura": 29,
+      "aya": 46
+    },
+    {
+      "num": 22,
+      "sura": 33,
+      "aya": 31
+    },
+    {
+      "num": 23,
+      "sura": 36,
+      "aya": 27
+    },
+    {
+      "num": 24,
+      "sura": 39,
+      "aya": 31
+    },
+    {
+      "num": 25,
+      "sura": 41,
+      "aya": 46
+    },
+    {
+      "num": 26,
+      "sura": 46,
+      "aya": 1
+    },
+    {
+      "num": 27,
+      "sura": 51,
+      "aya": 31
+    },
+    {
+      "num": 28,
+      "sura": 58,
+      "aya": 1
+    },
+    {
+      "num": 29,
+      "sura": 67,
+      "aya": 1
+    },
+    {
+      "num": 30,
+      "sura": 78,
+      "aya": 1
+    }
+  ],
+  "ruba3": [
+    {
+      "num": 1,
+      "sura": 1,
+      "aya": 1
+    },
+    {
+      "num": 2,
+      "sura": 2,
+      "aya": 25
+    },
+    {
+      "num": 3,
+      "sura": 2,
+      "aya": 43
+    },
+    {
+      "num": 4,
+      "sura": 2,
+      "aya": 59
+    },
+    {
+      "num": 5,
+      "sura": 2,
+      "aya": 75
+    },
+    {
+      "num": 6,
+      "sura": 2,
+      "aya": 91
+    },
+    {
+      "num": 7,
+      "sura": 2,
+      "aya": 105
+    },
+    {
+      "num": 8,
+      "sura": 2,
+      "aya": 123
+    },
+    {
+      "num": 9,
+      "sura": 2,
+      "aya": 141
+    },
+    {
+      "num": 10,
+      "sura": 2,
+      "aya": 157
+    },
+    {
+      "num": 11,
+      "sura": 2,
+      "aya": 176
+    },
+    {
+      "num": 12,
+      "sura": 2,
+      "aya": 188
+    },
+    {
+      "num": 13,
+      "sura": 2,
+      "aya": 201
+    },
+    {
+      "num": 14,
+      "sura": 2,
+      "aya": 217
+    },
+    {
+      "num": 15,
+      "sura": 2,
+      "aya": 231
+    },
+    {
+      "num": 16,
+      "sura": 2,
+      "aya": 241
+    },
+    {
+      "num": 17,
+      "sura": 2,
+      "aya": 251
+    },
+    {
+      "num": 18,
+      "sura": 2,
+      "aya": 262
+    },
+    {
+      "num": 19,
+      "sura": 2,
+      "aya": 271
+    },
+    {
+      "num": 20,
+      "sura": 2,
+      "aya": 282
+    },
+    {
+      "num": 21,
+      "sura": 3,
+      "aya": 15
+    },
+    {
+      "num": 22,
+      "sura": 3,
+      "aya": 33
+    },
+    {
+      "num": 23,
+      "sura": 3,
+      "aya": 51
+    },
+    {
+      "num": 24,
+      "sura": 3,
+      "aya": 74
+    },
+    {
+      "num": 25,
+      "sura": 3,
+      "aya": 91
+    },
+    {
+      "num": 26,
+      "sura": 3,
+      "aya": 113
+    },
+    {
+      "num": 27,
+      "sura": 3,
+      "aya": 133
+    },
+    {
+      "num": 28,
+      "sura": 3,
+      "aya": 153
+    },
+    {
+      "num": 29,
+      "sura": 3,
+      "aya": 171
+    },
+    {
+      "num": 30,
+      "sura": 3,
+      "aya": 186
+    },
+    {
+      "num": 31,
+      "sura": 4,
+      "aya": 6
+    },
+    {
+      "num": 32,
+      "sura": 4,
+      "aya": 13
+    },
+    {
+      "num": 33,
+      "sura": 4,
+      "aya": 24
+    },
+    {
+      "num": 34,
+      "sura": 4,
+      "aya": 36
+    },
+    {
+      "num": 35,
+      "sura": 4,
+      "aya": 57
+    },
+    {
+      "num": 36,
+      "sura": 4,
+      "aya": 73
+    },
+    {
+      "num": 37,
+      "sura": 4,
+      "aya": 86
+    },
+    {
+      "num": 38,
+      "sura": 4,
+      "aya": 99
+    },
+    {
+      "num": 39,
+      "sura": 4,
+      "aya": 113
+    },
+    {
+      "num": 40,
+      "sura": 4,
+      "aya": 129
+    },
+    {
+      "num": 41,
+      "sura": 4,
+      "aya": 147
+    },
+    {
+      "num": 42,
+      "sura": 4,
+      "aya": 165
+    },
+    {
+      "num": 43,
+      "sura": 5,
+      "aya": 4
+    },
+    {
+      "num": 44,
+      "sura": 5,
+      "aya": 13
+    },
+    {
+      "num": 45,
+      "sura": 5,
+      "aya": 25
+    },
+    {
+      "num": 46,
+      "sura": 5,
+      "aya": 43
+    },
+    {
+      "num": 47,
+      "sura": 5,
+      "aya": 51
+    },
+    {
+      "num": 48,
+      "sura": 5,
+      "aya": 69
+    },
+    {
+      "num": 49,
+      "sura": 5,
+      "aya": 84
+    },
+    {
+      "num": 50,
+      "sura": 5,
+      "aya": 99
+    },
+    {
+      "num": 51,
+      "sura": 5,
+      "aya": 113
+    },
+    {
+      "num": 52,
+      "sura": 6,
+      "aya": 14
+    },
+    {
+      "num": 53,
+      "sura": 6,
+      "aya": 37
+    },
+    {
+      "num": 54,
+      "sura": 6,
+      "aya": 60
+    },
+    {
+      "num": 55,
+      "sura": 6,
+      "aya": 81
+    },
+    {
+      "num": 56,
+      "sura": 6,
+      "aya": 96
+    },
+    {
+      "num": 57,
+      "sura": 6,
+      "aya": 112
+    },
+    {
+      "num": 58,
+      "sura": 6,
+      "aya": 128
+    },
+    {
+      "num": 59,
+      "sura": 6,
+      "aya": 142
+    },
+    {
+      "num": 60,
+      "sura": 6,
+      "aya": 152
+    },
+    {
+      "num": 61,
+      "sura": 7,
+      "aya": 1
+    },
+    {
+      "num": 62,
+      "sura": 7,
+      "aya": 28
+    },
+    {
+      "num": 63,
+      "sura": 7,
+      "aya": 46
+    },
+    {
+      "num": 64,
+      "sura": 7,
+      "aya": 64
+    },
+    {
+      "num": 65,
+      "sura": 7,
+      "aya": 87
+    },
+    {
+      "num": 66,
+      "sura": 7,
+      "aya": 116
+    },
+    {
+      "num": 67,
+      "sura": 7,
+      "aya": 142
+    },
+    {
+      "num": 68,
+      "sura": 7,
+      "aya": 156
+    },
+    {
+      "num": 69,
+      "sura": 7,
+      "aya": 171
+    },
+    {
+      "num": 70,
+      "sura": 7,
+      "aya": 188
+    },
+    {
+      "num": 71,
+      "sura": 8,
+      "aya": 5
+    },
+    {
+      "num": 72,
+      "sura": 8,
+      "aya": 22
+    },
+    {
+      "num": 73,
+      "sura": 8,
+      "aya": 41
+    },
+    {
+      "num": 74,
+      "sura": 8,
+      "aya": 61
+    },
+    {
+      "num": 75,
+      "sura": 9,
+      "aya": 5
+    },
+    {
+      "num": 76,
+      "sura": 9,
+      "aya": 19
+    },
+    {
+      "num": 77,
+      "sura": 9,
+      "aya": 34
+    },
+    {
+      "num": 78,
+      "sura": 9,
+      "aya": 46
+    },
+    {
+      "num": 79,
+      "sura": 9,
+      "aya": 61
+    },
+    {
+      "num": 80,
+      "sura": 9,
+      "aya": 76
+    },
+    {
+      "num": 81,
+      "sura": 9,
+      "aya": 94
+    },
+    {
+      "num": 82,
+      "sura": 9,
+      "aya": 112
+    },
+    {
+      "num": 83,
+      "sura": 9,
+      "aya": 124
+    },
+    {
+      "num": 84,
+      "sura": 10,
+      "aya": 11
+    },
+    {
+      "num": 85,
+      "sura": 10,
+      "aya": 26
+    },
+    {
+      "num": 86,
+      "sura": 10,
+      "aya": 49
+    },
+    {
+      "num": 87,
+      "sura": 10,
+      "aya": 71
+    },
+    {
+      "num": 88,
+      "sura": 10,
+      "aya": 93
+    },
+    {
+      "num": 89,
+      "sura": 11,
+      "aya": 6
+    },
+    {
+      "num": 90,
+      "sura": 11,
+      "aya": 24
+    },
+    {
+      "num": 91,
+      "sura": 11,
+      "aya": 41
+    },
+    {
+      "num": 92,
+      "sura": 11,
+      "aya": 61
+    },
+    {
+      "num": 93,
+      "sura": 11,
+      "aya": 83
+    },
+    {
+      "num": 94,
+      "sura": 11,
+      "aya": 105
+    },
+    {
+      "num": 95,
+      "sura": 12,
+      "aya": 10
+    },
+    {
+      "num": 96,
+      "sura": 12,
+      "aya": 33
+    },
+    {
+      "num": 97,
+      "sura": 12,
+      "aya": 53
+    },
+    {
+      "num": 98,
+      "sura": 12,
+      "aya": 77
+    },
+    {
+      "num": 99,
+      "sura": 12,
+      "aya": 101
+    },
+    {
+      "num": 100,
+      "sura": 13,
+      "aya": 5
+    },
+    {
+      "num": 101,
+      "sura": 13,
+      "aya": 21
+    },
+    {
+      "num": 102,
+      "sura": 13,
+      "aya": 36
+    },
+    {
+      "num": 103,
+      "sura": 14,
+      "aya": 13
+    },
+    {
+      "num": 104,
+      "sura": 14,
+      "aya": 30
+    },
+    {
+      "num": 105,
+      "sura": 15,
+      "aya": 1
+    },
+    {
+      "num": 106,
+      "sura": 15,
+      "aya": 49
+    },
+    {
+      "num": 107,
+      "sura": 16,
+      "aya": 1
+    },
+    {
+      "num": 108,
+      "sura": 16,
+      "aya": 30
+    },
+    {
+      "num": 109,
+      "sura": 16,
+      "aya": 51
+    },
+    {
+      "num": 110,
+      "sura": 16,
+      "aya": 71
+    },
+    {
+      "num": 111,
+      "sura": 16,
+      "aya": 90
+    },
+    {
+      "num": 112,
+      "sura": 16,
+      "aya": 111
+    },
+    {
+      "num": 113,
+      "sura": 17,
+      "aya": 1
+    },
+    {
+      "num": 114,
+      "sura": 17,
+      "aya": 23
+    },
+    {
+      "num": 115,
+      "sura": 17,
+      "aya": 50
+    },
+    {
+      "num": 116,
+      "sura": 17,
+      "aya": 70
+    },
+    {
+      "num": 117,
+      "sura": 17,
+      "aya": 99
+    },
+    {
+      "num": 118,
+      "sura": 18,
+      "aya": 17
+    },
+    {
+      "num": 119,
+      "sura": 18,
+      "aya": 32
+    },
+    {
+      "num": 120,
+      "sura": 18,
+      "aya": 53
+    },
+    {
+      "num": 121,
+      "sura": 18,
+      "aya": 74
+    },
+    {
+      "num": 122,
+      "sura": 18,
+      "aya": 95
+    },
+    {
+      "num": 123,
+      "sura": 19,
+      "aya": 21
+    },
+    {
+      "num": 124,
+      "sura": 19,
+      "aya": 59
+    },
+    {
+      "num": 125,
+      "sura": 20,
+      "aya": 1
+    },
+    {
+      "num": 126,
+      "sura": 20,
+      "aya": 54
+    },
+    {
+      "num": 127,
+      "sura": 20,
+      "aya": 81
+    },
+    {
+      "num": 128,
+      "sura": 20,
+      "aya": 108
+    },
+    {
+      "num": 129,
+      "sura": 21,
+      "aya": 1
+    },
+    {
+      "num": 130,
+      "sura": 21,
+      "aya": 30
+    },
+    {
+      "num": 131,
+      "sura": 21,
+      "aya": 51
+    },
+    {
+      "num": 132,
+      "sura": 21,
+      "aya": 86
+    },
+    {
+      "num": 133,
+      "sura": 22,
+      "aya": 1
+    },
+    {
+      "num": 134,
+      "sura": 22,
+      "aya": 19
+    },
+    {
+      "num": 135,
+      "sura": 22,
+      "aya": 36
+    },
+    {
+      "num": 136,
+      "sura": 22,
+      "aya": 58
+    },
+    {
+      "num": 137,
+      "sura": 23,
+      "aya": 1
+    },
+    {
+      "num": 138,
+      "sura": 23,
+      "aya": 36
+    },
+    {
+      "num": 139,
+      "sura": 23,
+      "aya": 76
+    },
+    {
+      "num": 140,
+      "sura": 23,
+      "aya": 116
+    },
+    {
+      "num": 141,
+      "sura": 24,
+      "aya": 21
+    },
+    {
+      "num": 142,
+      "sura": 24,
+      "aya": 35
+    },
+    {
+      "num": 143,
+      "sura": 24,
+      "aya": 51
+    },
+    {
+      "num": 144,
+      "sura": 24,
+      "aya": 61
+    },
+    {
+      "num": 145,
+      "sura": 25,
+      "aya": 21
+    },
+    {
+      "num": 146,
+      "sura": 25,
+      "aya": 45
+    },
+    {
+      "num": 147,
+      "sura": 26,
+      "aya": 1
+    },
+    {
+      "num": 148,
+      "sura": 26,
+      "aya": 50
+    },
+    {
+      "num": 149,
+      "sura": 26,
+      "aya": 111
+    },
+    {
+      "num": 150,
+      "sura": 26,
+      "aya": 181
+    },
+    {
+      "num": 151,
+      "sura": 27,
+      "aya": 6
+    },
+    {
+      "num": 152,
+      "sura": 27,
+      "aya": 27
+    },
+    {
+      "num": 153,
+      "sura": 27,
+      "aya": 58
+    },
+    {
+      "num": 154,
+      "sura": 27,
+      "aya": 84
+    },
+    {
+      "num": 155,
+      "sura": 28,
+      "aya": 11
+    },
+    {
+      "num": 156,
+      "sura": 28,
+      "aya": 29
+    },
+    {
+      "num": 157,
+      "sura": 28,
+      "aya": 51
+    },
+    {
+      "num": 158,
+      "sura": 28,
+      "aya": 76
+    },
+    {
+      "num": 159,
+      "sura": 29,
+      "aya": 7
+    },
+    {
+      "num": 160,
+      "sura": 29,
+      "aya": 25
+    },
+    {
+      "num": 161,
+      "sura": 29,
+      "aya": 46
+    },
+    {
+      "num": 162,
+      "sura": 30,
+      "aya": 8
+    },
+    {
+      "num": 163,
+      "sura": 30,
+      "aya": 30
+    },
+    {
+      "num": 164,
+      "sura": 30,
+      "aya": 53
+    },
+    {
+      "num": 165,
+      "sura": 31,
+      "aya": 21
+    },
+    {
+      "num": 166,
+      "sura": 32,
+      "aya": 11
+    },
+    {
+      "num": 167,
+      "sura": 33,
+      "aya": 6
+    },
+    {
+      "num": 168,
+      "sura": 33,
+      "aya": 20
+    },
+    {
+      "num": 169,
+      "sura": 33,
+      "aya": 31
+    },
+    {
+      "num": 170,
+      "sura": 33,
+      "aya": 51
+    },
+    {
+      "num": 171,
+      "sura": 33,
+      "aya": 60
+    },
+    {
+      "num": 172,
+      "sura": 34,
+      "aya": 7
+    },
+    {
+      "num": 173,
+      "sura": 34,
+      "aya": 24
+    },
+    {
+      "num": 174,
+      "sura": 34,
+      "aya": 46
+    },
+    {
+      "num": 175,
+      "sura": 35,
+      "aya": 15
+    },
+    {
+      "num": 176,
+      "sura": 35,
+      "aya": 40
+    },
+    {
+      "num": 177,
+      "sura": 36,
+      "aya": 27
+    },
+    {
+      "num": 178,
+      "sura": 36,
+      "aya": 59
+    },
+    {
+      "num": 179,
+      "sura": 37,
+      "aya": 22
+    },
+    {
+      "num": 180,
+      "sura": 37,
+      "aya": 83
+    },
+    {
+      "num": 181,
+      "sura": 37,
+      "aya": 145
+    },
+    {
+      "num": 182,
+      "sura": 38,
+      "aya": 20
+    },
+    {
+      "num": 183,
+      "sura": 38,
+      "aya": 51
+    },
+    {
+      "num": 184,
+      "sura": 39,
+      "aya": 9
+    },
+    {
+      "num": 185,
+      "sura": 39,
+      "aya": 31
+    },
+    {
+      "num": 186,
+      "sura": 39,
+      "aya": 50
+    },
+    {
+      "num": 187,
+      "sura": 40,
+      "aya": 1
+    },
+    {
+      "num": 188,
+      "sura": 40,
+      "aya": 21
+    },
+    {
+      "num": 189,
+      "sura": 40,
+      "aya": 41
+    },
+    {
+      "num": 190,
+      "sura": 40,
+      "aya": 66
+    },
+    {
+      "num": 191,
+      "sura": 41,
+      "aya": 8
+    },
+    {
+      "num": 192,
+      "sura": 41,
+      "aya": 25
+    },
+    {
+      "num": 193,
+      "sura": 41,
+      "aya": 46
+    },
+    {
+      "num": 194,
+      "sura": 42,
+      "aya": 11
+    },
+    {
+      "num": 195,
+      "sura": 42,
+      "aya": 31
+    },
+    {
+      "num": 196,
+      "sura": 42,
+      "aya": 48
+    },
+    {
+      "num": 197,
+      "sura": 43,
+      "aya": 23
+    },
+    {
+      "num": 198,
+      "sura": 43,
+      "aya": 63
+    },
+    {
+      "num": 199,
+      "sura": 44,
+      "aya": 24
+    },
+    {
+      "num": 200,
+      "sura": 45,
+      "aya": 10
+    },
+    {
+      "num": 201,
+      "sura": 46,
+      "aya": 1
+    },
+    {
+      "num": 202,
+      "sura": 46,
+      "aya": 20
+    },
+    {
+      "num": 203,
+      "sura": 47,
+      "aya": 11
+    },
+    {
+      "num": 204,
+      "sura": 47,
+      "aya": 34
+    },
+    {
+      "num": 205,
+      "sura": 48,
+      "aya": 18
+    },
+    {
+      "num": 206,
+      "sura": 49,
+      "aya": 1
+    },
+    {
+      "num": 207,
+      "sura": 49,
+      "aya": 14
+    },
+    {
+      "num": 208,
+      "sura": 50,
+      "aya": 27
+    },
+    {
+      "num": 209,
+      "sura": 51,
+      "aya": 31
+    },
+    {
+      "num": 210,
+      "sura": 52,
+      "aya": 22
+    },
+    {
+      "num": 211,
+      "sura": 53,
+      "aya": 26
+    },
+    {
+      "num": 212,
+      "sura": 54,
+      "aya": 18
+    },
+    {
+      "num": 213,
+      "sura": 55,
+      "aya": 1
+    },
+    {
+      "num": 214,
+      "sura": 55,
+      "aya": 59
+    },
+    {
+      "num": 215,
+      "sura": 56,
+      "aya": 78
+    },
+    {
+      "num": 216,
+      "sura": 57,
+      "aya": 15
+    },
+    {
+      "num": 217,
+      "sura": 58,
+      "aya": 1
+    },
+    {
+      "num": 218,
+      "sura": 58,
+      "aya": 14
+    },
+    {
+      "num": 219,
+      "sura": 59,
+      "aya": 11
+    },
+    {
+      "num": 220,
+      "sura": 60,
+      "aya": 7
+    },
+    {
+      "num": 221,
+      "sura": 62,
+      "aya": 1
+    },
+    {
+      "num": 222,
+      "sura": 63,
+      "aya": 9
+    },
+    {
+      "num": 223,
+      "sura": 64,
+      "aya": 14
+    },
+    {
+      "num": 224,
+      "sura": 65,
+      "aya": 12
+    },
+    {
+      "num": 225,
+      "sura": 67,
+      "aya": 1
+    },
+    {
+      "num": 226,
+      "sura": 68,
+      "aya": 19
+    },
+    {
+      "num": 227,
+      "sura": 69,
+      "aya": 38
+    },
+    {
+      "num": 228,
+      "sura": 70,
+      "aya": 40
+    },
+    {
+      "num": 229,
+      "sura": 72,
+      "aya": 1
+    },
+    {
+      "num": 230,
+      "sura": 73,
+      "aya": 18
+    },
+    {
+      "num": 231,
+      "sura": 75,
+      "aya": 1
+    },
+    {
+      "num": 232,
+      "sura": 76,
+      "aya": 19
+    },
+    {
+      "num": 233,
+      "sura": 78,
+      "aya": 1
+    },
+    {
+      "num": 234,
+      "sura": 79,
+      "aya": 41
+    },
+    {
+      "num": 235,
+      "sura": 81,
+      "aya": 15
+    },
+    {
+      "num": 236,
+      "sura": 84,
+      "aya": 16
+    },
+    {
+      "num": 237,
+      "sura": 87,
+      "aya": 1
+    },
+    {
+      "num": 238,
+      "sura": 90,
+      "aya": 1
+    },
+    {
+      "num": 239,
+      "sura": 94,
+      "aya": 1
+    },
+    {
+      "num": 240,
+      "sura": 100,
+      "aya": 9
+    }
+  ],
+  "athmaan": [
+    {
+      "num": 1,
+      "sura": 1,
+      "aya": 1
+    },
+    {
+      "num": 2,
+      "sura": 2,
+      "aya": 13
+    },
+    {
+      "num": 3,
+      "sura": 2,
+      "aya": 25
+    },
+    {
+      "num": 4,
+      "sura": 2,
+      "aya": 33
+    },
+    {
+      "num": 5,
+      "sura": 2,
+      "aya": 43
+    },
+    {
+      "num": 6,
+      "sura": 2,
+      "aya": 53
+    },
+    {
+      "num": 7,
+      "sura": 2,
+      "aya": 59
+    },
+    {
+      "num": 8,
+      "sura": 2,
+      "aya": 66
+    },
+    {
+      "num": 9,
+      "sura": 2,
+      "aya": 75
+    },
+    {
+      "num": 10,
+      "sura": 2,
+      "aya": 84
+    },
+    {
+      "num": 11,
+      "sura": 2,
+      "aya": 91
+    },
+    {
+      "num": 12,
+      "sura": 2,
+      "aya": 101
+    },
+    {
+      "num": 13,
+      "sura": 2,
+      "aya": 105
+    },
+    {
+      "num": 14,
+      "sura": 2,
+      "aya": 114
+    },
+    {
+      "num": 15,
+      "sura": 2,
+      "aya": 123
+    },
+    {
+      "num": 16,
+      "sura": 2,
+      "aya": 132
+    },
+    {
+      "num": 17,
+      "sura": 2,
+      "aya": 141
+    },
+    {
+      "num": 18,
+      "sura": 2,
+      "aya": 147
+    },
+    {
+      "num": 19,
+      "sura": 2,
+      "aya": 157
+    },
+    {
+      "num": 20,
+      "sura": 2,
+      "aya": 167
+    },
+    {
+      "num": 21,
+      "sura": 2,
+      "aya": 176
+    },
+    {
+      "num": 22,
+      "sura": 2,
+      "aya": 184
+    },
+    {
+      "num": 23,
+      "sura": 2,
+      "aya": 188
+    },
+    {
+      "num": 24,
+      "sura": 2,
+      "aya": 196
+    },
+    {
+      "num": 25,
+      "sura": 2,
+      "aya": 201
+    },
+    {
+      "num": 26,
+      "sura": 2,
+      "aya": 211
+    },
+    {
+      "num": 27,
+      "sura": 2,
+      "aya": 217
+    },
+    {
+      "num": 28,
+      "sura": 2,
+      "aya": 226
+    },
+    {
+      "num": 29,
+      "sura": 2,
+      "aya": 231
+    },
+    {
+      "num": 30,
+      "sura": 2,
+      "aya": 234
+    },
+    {
+      "num": 31,
+      "sura": 2,
+      "aya": 241
+    },
+    {
+      "num": 32,
+      "sura": 2,
+      "aya": 246
+    },
+    {
+      "num": 33,
+      "sura": 2,
+      "aya": 251
+    },
+    {
+      "num": 34,
+      "sura": 2,
+      "aya": 257
+    },
+    {
+      "num": 35,
+      "sura": 2,
+      "aya": 262
+    },
+    {
+      "num": 36,
+      "sura": 2,
+      "aya": 266
+    },
+    {
+      "num": 37,
+      "sura": 2,
+      "aya": 271
+    },
+    {
+      "num": 38,
+      "sura": 2,
+      "aya": 281
+    },
+    {
+      "num": 39,
+      "sura": 2,
+      "aya": 282
+    },
+    {
+      "num": 40,
+      "sura": 3,
+      "aya": 5
+    },
+    {
+      "num": 41,
+      "sura": 3,
+      "aya": 15
+    },
+    {
+      "num": 42,
+      "sura": 3,
+      "aya": 26
+    },
+    {
+      "num": 43,
+      "sura": 3,
+      "aya": 33
+    },
+    {
+      "num": 44,
+      "sura": 3,
+      "aya": 42
+    },
+    {
+      "num": 45,
+      "sura": 3,
+      "aya": 51
+    },
+    {
+      "num": 46,
+      "sura": 3,
+      "aya": 63
+    },
+    {
+      "num": 47,
+      "sura": 3,
+      "aya": 74
+    },
+    {
+      "num": 48,
+      "sura": 3,
+      "aya": 82
+    },
+    {
+      "num": 49,
+      "sura": 3,
+      "aya": 91
+    },
+    {
+      "num": 50,
+      "sura": 3,
+      "aya": 104
+    },
+    {
+      "num": 51,
+      "sura": 3,
+      "aya": 113
+    },
+    {
+      "num": 52,
+      "sura": 3,
+      "aya": 121
+    },
+    {
+      "num": 53,
+      "sura": 3,
+      "aya": 133
+    },
+    {
+      "num": 54,
+      "sura": 3,
+      "aya": 144
+    },
+    {
+      "num": 55,
+      "sura": 3,
+      "aya": 153
+    },
+    {
+      "num": 56,
+      "sura": 3,
+      "aya": 160
+    },
+    {
+      "num": 57,
+      "sura": 3,
+      "aya": 171
+    },
+    {
+      "num": 58,
+      "sura": 3,
+      "aya": 179
+    },
+    {
+      "num": 59,
+      "sura": 3,
+      "aya": 186
+    },
+    {
+      "num": 60,
+      "sura": 3,
+      "aya": 195
+    },
+    {
+      "num": 61,
+      "sura": 4,
+      "aya": 6
+    },
+    {
+      "num": 62,
+      "sura": 4,
+      "aya": 11
+    },
+    {
+      "num": 63,
+      "sura": 4,
+      "aya": 13
+    },
+    {
+      "num": 64,
+      "sura": 4,
+      "aya": 19
+    },
+    {
+      "num": 65,
+      "sura": 4,
+      "aya": 24
+    },
+    {
+      "num": 66,
+      "sura": 4,
+      "aya": 31
+    },
+    {
+      "num": 67,
+      "sura": 4,
+      "aya": 36
+    },
+    {
+      "num": 68,
+      "sura": 4,
+      "aya": 46
+    },
+    {
+      "num": 69,
+      "sura": 4,
+      "aya": 57
+    },
+    {
+      "num": 70,
+      "sura": 4,
+      "aya": 63
+    },
+    {
+      "num": 71,
+      "sura": 4,
+      "aya": 73
+    },
+    {
+      "num": 72,
+      "sura": 4,
+      "aya": 77
+    },
+    {
+      "num": 73,
+      "sura": 4,
+      "aya": 86
+    },
+    {
+      "num": 74,
+      "sura": 4,
+      "aya": 92
+    },
+    {
+      "num": 75,
+      "sura": 4,
+      "aya": 99
+    },
+    {
+      "num": 76,
+      "sura": 4,
+      "aya": 104
+    },
+    {
+      "num": 77,
+      "sura": 4,
+      "aya": 113
+    },
+    {
+      "num": 78,
+      "sura": 4,
+      "aya": 122
+    },
+    {
+      "num": 79,
+      "sura": 4,
+      "aya": 129
+    },
+    {
+      "num": 80,
+      "sura": 4,
+      "aya": 137
+    },
+    {
+      "num": 81,
+      "sura": 4,
+      "aya": 147
+    },
+    {
+      "num": 82,
+      "sura": 4,
+      "aya": 158
+    },
+    {
+      "num": 83,
+      "sura": 4,
+      "aya": 165
+    },
+    {
+      "num": 84,
+      "sura": 4,
+      "aya": 171
+    },
+    {
+      "num": 85,
+      "sura": 5,
+      "aya": 4
+    },
+    {
+      "num": 86,
+      "sura": 5,
+      "aya": 7
+    },
+    {
+      "num": 87,
+      "sura": 5,
+      "aya": 13
+    },
+    {
+      "num": 88,
+      "sura": 5,
+      "aya": 19
+    },
+    {
+      "num": 89,
+      "sura": 5,
+      "aya": 25
+    },
+    {
+      "num": 90,
+      "sura": 5,
+      "aya": 34
+    },
+    {
+      "num": 91,
+      "sura": 5,
+      "aya": 43
+    },
+    {
+      "num": 92,
+      "sura": 5,
+      "aya": 47
+    },
+    {
+      "num": 93,
+      "sura": 5,
+      "aya": 51
+    },
+    {
+      "num": 94,
+      "sura": 5,
+      "aya": 61
+    },
+    {
+      "num": 95,
+      "sura": 5,
+      "aya": 69
+    },
+    {
+      "num": 96,
+      "sura": 5,
+      "aya": 77
+    },
+    {
+      "num": 97,
+      "sura": 5,
+      "aya": 84
+    },
+    {
+      "num": 98,
+      "sura": 5,
+      "aya": 92
+    },
+    {
+      "num": 99,
+      "sura": 5,
+      "aya": 99
+    },
+    {
+      "num": 100,
+      "sura": 5,
+      "aya": 108
+    },
+    {
+      "num": 101,
+      "sura": 5,
+      "aya": 113
+    },
+    {
+      "num": 102,
+      "sura": 6,
+      "aya": 1
+    },
+    {
+      "num": 103,
+      "sura": 6,
+      "aya": 14
+    },
+    {
+      "num": 104,
+      "sura": 6,
+      "aya": 26
+    },
+    {
+      "num": 105,
+      "sura": 6,
+      "aya": 37
+    },
+    {
+      "num": 106,
+      "sura": 6,
+      "aya": 51
+    },
+    {
+      "num": 107,
+      "sura": 6,
+      "aya": 60
+    },
+    {
+      "num": 108,
+      "sura": 6,
+      "aya": 70
+    },
+    {
+      "num": 109,
+      "sura": 6,
+      "aya": 81
+    },
+    {
+      "num": 110,
+      "sura": 6,
+      "aya": 92
+    },
+    {
+      "num": 111,
+      "sura": 6,
+      "aya": 96
+    },
+    {
+      "num": 112,
+      "sura": 6,
+      "aya": 101
+    },
+    {
+      "num": 113,
+      "sura": 6,
+      "aya": 112
+    },
+    {
+      "num": 114,
+      "sura": 6,
+      "aya": 121
+    },
+    {
+      "num": 115,
+      "sura": 6,
+      "aya": 128
+    },
+    {
+      "num": 116,
+      "sura": 6,
+      "aya": 137
+    },
+    {
+      "num": 117,
+      "sura": 6,
+      "aya": 142
+    },
+    {
+      "num": 118,
+      "sura": 6,
+      "aya": 146
+    },
+    {
+      "num": 119,
+      "sura": 6,
+      "aya": 152
+    },
+    {
+      "num": 120,
+      "sura": 6,
+      "aya": 159
+    },
+    {
+      "num": 121,
+      "sura": 7,
+      "aya": 1
+    },
+    {
+      "num": 122,
+      "sura": 7,
+      "aya": 18
+    },
+    {
+      "num": 123,
+      "sura": 7,
+      "aya": 28
+    },
+    {
+      "num": 124,
+      "sura": 7,
+      "aya": 36
+    },
+    {
+      "num": 125,
+      "sura": 7,
+      "aya": 46
+    },
+    {
+      "num": 126,
+      "sura": 7,
+      "aya": 54
+    },
+    {
+      "num": 127,
+      "sura": 7,
+      "aya": 64
+    },
+    {
+      "num": 128,
+      "sura": 7,
+      "aya": 74
+    },
+    {
+      "num": 129,
+      "sura": 7,
+      "aya": 87
+    },
+    {
+      "num": 130,
+      "sura": 7,
+      "aya": 99
+    },
+    {
+      "num": 131,
+      "sura": 7,
+      "aya": 116
+    },
+    {
+      "num": 132,
+      "sura": 7,
+      "aya": 131
+    },
+    {
+      "num": 133,
+      "sura": 7,
+      "aya": 142
+    },
+    {
+      "num": 134,
+      "sura": 7,
+      "aya": 148
+    },
+    {
+      "num": 135,
+      "sura": 7,
+      "aya": 156
+    },
+    {
+      "num": 136,
+      "sura": 7,
+      "aya": 163
+    },
+    {
+      "num": 137,
+      "sura": 7,
+      "aya": 171
+    },
+    {
+      "num": 138,
+      "sura": 7,
+      "aya": 180
+    },
+    {
+      "num": 139,
+      "sura": 7,
+      "aya": 188
+    },
+    {
+      "num": 140,
+      "sura": 7,
+      "aya": 199
+    },
+    {
+      "num": 141,
+      "sura": 8,
+      "aya": 5
+    },
+    {
+      "num": 142,
+      "sura": 8,
+      "aya": 12
+    },
+    {
+      "num": 143,
+      "sura": 8,
+      "aya": 22
+    },
+    {
+      "num": 144,
+      "sura": 8,
+      "aya": 32
+    },
+    {
+      "num": 145,
+      "sura": 8,
+      "aya": 41
+    },
+    {
+      "num": 146,
+      "sura": 8,
+      "aya": 50
+    },
+    {
+      "num": 147,
+      "sura": 8,
+      "aya": 61
+    },
+    {
+      "num": 148,
+      "sura": 8,
+      "aya": 73
+    },
+    {
+      "num": 149,
+      "sura": 9,
+      "aya": 5
+    },
+    {
+      "num": 150,
+      "sura": 9,
+      "aya": 12
+    },
+    {
+      "num": 151,
+      "sura": 9,
+      "aya": 19
+    },
+    {
+      "num": 152,
+      "sura": 9,
+      "aya": 25
+    },
+    {
+      "num": 153,
+      "sura": 9,
+      "aya": 34
+    },
+    {
+      "num": 154,
+      "sura": 9,
+      "aya": 40
+    },
+    {
+      "num": 155,
+      "sura": 9,
+      "aya": 46
+    },
+    {
+      "num": 156,
+      "sura": 9,
+      "aya": 54
+    },
+    {
+      "num": 157,
+      "sura": 9,
+      "aya": 61
+    },
+    {
+      "num": 158,
+      "sura": 9,
+      "aya": 70
+    },
+    {
+      "num": 159,
+      "sura": 9,
+      "aya": 76
+    },
+    {
+      "num": 160,
+      "sura": 9,
+      "aya": 85
+    },
+    {
+      "num": 161,
+      "sura": 9,
+      "aya": 94
+    },
+    {
+      "num": 162,
+      "sura": 9,
+      "aya": 102
+    },
+    {
+      "num": 163,
+      "sura": 9,
+      "aya": 112
+    },
+    {
+      "num": 164,
+      "sura": 9,
+      "aya": 118
+    },
+    {
+      "num": 165,
+      "sura": 9,
+      "aya": 124
+    },
+    {
+      "num": 166,
+      "sura": 10,
+      "aya": 3
+    },
+    {
+      "num": 167,
+      "sura": 10,
+      "aya": 11
+    },
+    {
+      "num": 168,
+      "sura": 10,
+      "aya": 19
+    },
+    {
+      "num": 169,
+      "sura": 10,
+      "aya": 26
+    },
+    {
+      "num": 170,
+      "sura": 10,
+      "aya": 37
+    },
+    {
+      "num": 171,
+      "sura": 10,
+      "aya": 49
+    },
+    {
+      "num": 172,
+      "sura": 10,
+      "aya": 61
+    },
+    {
+      "num": 173,
+      "sura": 10,
+      "aya": 71
+    },
+    {
+      "num": 174,
+      "sura": 10,
+      "aya": 83
+    },
+    {
+      "num": 175,
+      "sura": 10,
+      "aya": 93
+    },
+    {
+      "num": 176,
+      "sura": 10,
+      "aya": 104
+    },
+    {
+      "num": 177,
+      "sura": 11,
+      "aya": 6
+    },
+    {
+      "num": 178,
+      "sura": 11,
+      "aya": 15
+    },
+    {
+      "num": 179,
+      "sura": 11,
+      "aya": 24
+    },
+    {
+      "num": 180,
+      "sura": 11,
+      "aya": 32
+    },
+    {
+      "num": 181,
+      "sura": 11,
+      "aya": 41
+    },
+    {
+      "num": 182,
+      "sura": 11,
+      "aya": 50
+    },
+    {
+      "num": 183,
+      "sura": 11,
+      "aya": 61
+    },
+    {
+      "num": 184,
+      "sura": 11,
+      "aya": 73
+    },
+    {
+      "num": 185,
+      "sura": 11,
+      "aya": 83
+    },
+    {
+      "num": 186,
+      "sura": 11,
+      "aya": 94
+    },
+    {
+      "num": 187,
+      "sura": 11,
+      "aya": 105
+    },
+    {
+      "num": 188,
+      "sura": 11,
+      "aya": 119
+    },
+    {
+      "num": 189,
+      "sura": 12,
+      "aya": 10
+    },
+    {
+      "num": 190,
+      "sura": 12,
+      "aya": 22
+    },
+    {
+      "num": 191,
+      "sura": 12,
+      "aya": 33
+    },
+    {
+      "num": 192,
+      "sura": 12,
+      "aya": 43
+    },
+    {
+      "num": 193,
+      "sura": 12,
+      "aya": 53
+    },
+    {
+      "num": 194,
+      "sura": 12,
+      "aya": 67
+    },
+    {
+      "num": 195,
+      "sura": 12,
+      "aya": 77
+    },
+    {
+      "num": 196,
+      "sura": 12,
+      "aya": 88
+    },
+    {
+      "num": 197,
+      "sura": 12,
+      "aya": 101
+    },
+    {
+      "num": 198,
+      "sura": 12,
+      "aya": 110
+    },
+    {
+      "num": 199,
+      "sura": 13,
+      "aya": 5
+    },
+    {
+      "num": 200,
+      "sura": 13,
+      "aya": 17
+    },
+    {
+      "num": 201,
+      "sura": 13,
+      "aya": 21
+    },
+    {
+      "num": 202,
+      "sura": 13,
+      "aya": 31
+    },
+    {
+      "num": 203,
+      "sura": 13,
+      "aya": 36
+    },
+    {
+      "num": 204,
+      "sura": 14,
+      "aya": 1
+    },
+    {
+      "num": 205,
+      "sura": 14,
+      "aya": 13
+    },
+    {
+      "num": 206,
+      "sura": 14,
+      "aya": 22
+    },
+    {
+      "num": 207,
+      "sura": 14,
+      "aya": 30
+    },
+    {
+      "num": 208,
+      "sura": 14,
+      "aya": 41
+    },
+    {
+      "num": 209,
+      "sura": 15,
+      "aya": 1
+    },
+    {
+      "num": 210,
+      "sura": 15,
+      "aya": 26
+    },
+    {
+      "num": 211,
+      "sura": 15,
+      "aya": 49
+    },
+    {
+      "num": 212,
+      "sura": 15,
+      "aya": 80
+    },
+    {
+      "num": 213,
+      "sura": 16,
+      "aya": 1
+    },
+    {
+      "num": 214,
+      "sura": 16,
+      "aya": 15
+    },
+    {
+      "num": 215,
+      "sura": 16,
+      "aya": 30
+    },
+    {
+      "num": 216,
+      "sura": 16,
+      "aya": 38
+    },
+    {
+      "num": 217,
+      "sura": 16,
+      "aya": 51
+    },
+    {
+      "num": 218,
+      "sura": 16,
+      "aya": 63
+    },
+    {
+      "num": 219,
+      "sura": 16,
+      "aya": 71
+    },
+    {
+      "num": 220,
+      "sura": 16,
+      "aya": 79
+    },
+    {
+      "num": 221,
+      "sura": 16,
+      "aya": 90
+    },
+    {
+      "num": 222,
+      "sura": 16,
+      "aya": 98
+    },
+    {
+      "num": 223,
+      "sura": 16,
+      "aya": 111
+    },
+    {
+      "num": 224,
+      "sura": 16,
+      "aya": 120
+    },
+    {
+      "num": 225,
+      "sura": 17,
+      "aya": 1
+    },
+    {
+      "num": 226,
+      "sura": 17,
+      "aya": 11
+    },
+    {
+      "num": 227,
+      "sura": 17,
+      "aya": 23
+    },
+    {
+      "num": 228,
+      "sura": 17,
+      "aya": 36
+    },
+    {
+      "num": 229,
+      "sura": 17,
+      "aya": 50
+    },
+    {
+      "num": 230,
+      "sura": 17,
+      "aya": 61
+    },
+    {
+      "num": 231,
+      "sura": 17,
+      "aya": 70
+    },
+    {
+      "num": 232,
+      "sura": 17,
+      "aya": 85
+    },
+    {
+      "num": 233,
+      "sura": 17,
+      "aya": 99
+    },
+    {
+      "num": 234,
+      "sura": 18,
+      "aya": 1
+    },
+    {
+      "num": 235,
+      "sura": 18,
+      "aya": 17
+    },
+    {
+      "num": 236,
+      "sura": 18,
+      "aya": 23
+    },
+    {
+      "num": 237,
+      "sura": 18,
+      "aya": 32
+    },
+    {
+      "num": 238,
+      "sura": 18,
+      "aya": 44
+    },
+    {
+      "num": 239,
+      "sura": 18,
+      "aya": 53
+    },
+    {
+      "num": 240,
+      "sura": 18,
+      "aya": 63
+    },
+    {
+      "num": 241,
+      "sura": 18,
+      "aya": 74
+    },
+    {
+      "num": 242,
+      "sura": 18,
+      "aya": 82
+    },
+    {
+      "num": 243,
+      "sura": 18,
+      "aya": 95
+    },
+    {
+      "num": 244,
+      "sura": 19,
+      "aya": 1
+    },
+    {
+      "num": 245,
+      "sura": 19,
+      "aya": 21
+    },
+    {
+      "num": 246,
+      "sura": 19,
+      "aya": 40
+    },
+    {
+      "num": 247,
+      "sura": 19,
+      "aya": 59
+    },
+    {
+      "num": 248,
+      "sura": 19,
+      "aya": 78
+    },
+    {
+      "num": 249,
+      "sura": 20,
+      "aya": 1
+    },
+    {
+      "num": 250,
+      "sura": 20,
+      "aya": 24
+    },
+    {
+      "num": 251,
+      "sura": 20,
+      "aya": 54
+    },
+    {
+      "num": 252,
+      "sura": 20,
+      "aya": 71
+    },
+    {
+      "num": 253,
+      "sura": 20,
+      "aya": 81
+    },
+    {
+      "num": 254,
+      "sura": 20,
+      "aya": 93
+    },
+    {
+      "num": 255,
+      "sura": 20,
+      "aya": 108
+    },
+    {
+      "num": 256,
+      "sura": 20,
+      "aya": 126
+    },
+    {
+      "num": 257,
+      "sura": 21,
+      "aya": 1
+    },
+    {
+      "num": 258,
+      "sura": 21,
+      "aya": 16
+    },
+    {
+      "num": 259,
+      "sura": 21,
+      "aya": 30
+    },
+    {
+      "num": 260,
+      "sura": 21,
+      "aya": 42
+    },
+    {
+      "num": 261,
+      "sura": 21,
+      "aya": 51
+    },
+    {
+      "num": 262,
+      "sura": 21,
+      "aya": 73
+    },
+    {
+      "num": 263,
+      "sura": 21,
+      "aya": 86
+    },
+    {
+      "num": 264,
+      "sura": 21,
+      "aya": 100
+    },
+    {
+      "num": 265,
+      "sura": 22,
+      "aya": 1
+    },
+    {
+      "num": 266,
+      "sura": 22,
+      "aya": 11
+    },
+    {
+      "num": 267,
+      "sura": 22,
+      "aya": 19
+    },
+    {
+      "num": 268,
+      "sura": 22,
+      "aya": 28
+    },
+    {
+      "num": 269,
+      "sura": 22,
+      "aya": 36
+    },
+    {
+      "num": 270,
+      "sura": 22,
+      "aya": 47
+    },
+    {
+      "num": 271,
+      "sura": 22,
+      "aya": 58
+    },
+    {
+      "num": 272,
+      "sura": 22,
+      "aya": 68
+    },
+    {
+      "num": 273,
+      "sura": 23,
+      "aya": 1
+    },
+    {
+      "num": 274,
+      "sura": 23,
+      "aya": 21
+    },
+    {
+      "num": 275,
+      "sura": 23,
+      "aya": 36
+    },
+    {
+      "num": 276,
+      "sura": 23,
+      "aya": 58
+    },
+    {
+      "num": 277,
+      "sura": 23,
+      "aya": 76
+    },
+    {
+      "num": 278,
+      "sura": 23,
+      "aya": 98
+    },
+    {
+      "num": 279,
+      "sura": 23,
+      "aya": 116
+    },
+    {
+      "num": 280,
+      "sura": 24,
+      "aya": 11
+    },
+    {
+      "num": 281,
+      "sura": 24,
+      "aya": 21
+    },
+    {
+      "num": 282,
+      "sura": 24,
+      "aya": 30
+    },
+    {
+      "num": 283,
+      "sura": 24,
+      "aya": 35
+    },
+    {
+      "num": 284,
+      "sura": 24,
+      "aya": 42
+    },
+    {
+      "num": 285,
+      "sura": 24,
+      "aya": 51
+    },
+    {
+      "num": 286,
+      "sura": 24,
+      "aya": 58
+    },
+    {
+      "num": 287,
+      "sura": 24,
+      "aya": 61
+    },
+    {
+      "num": 288,
+      "sura": 25,
+      "aya": 10
+    },
+    {
+      "num": 289,
+      "sura": 25,
+      "aya": 21
+    },
+    {
+      "num": 290,
+      "sura": 25,
+      "aya": 32
+    },
+    {
+      "num": 291,
+      "sura": 25,
+      "aya": 45
+    },
+    {
+      "num": 292,
+      "sura": 25,
+      "aya": 61
+    },
+    {
+      "num": 293,
+      "sura": 26,
+      "aya": 1
+    },
+    {
+      "num": 294,
+      "sura": 26,
+      "aya": 22
+    },
+    {
+      "num": 295,
+      "sura": 26,
+      "aya": 50
+    },
+    {
+      "num": 296,
+      "sura": 26,
+      "aya": 78
+    },
+    {
+      "num": 297,
+      "sura": 26,
+      "aya": 111
+    },
+    {
+      "num": 298,
+      "sura": 26,
+      "aya": 146
+    },
+    {
+      "num": 299,
+      "sura": 26,
+      "aya": 181
+    },
+    {
+      "num": 300,
+      "sura": 26,
+      "aya": 208
+    },
+    {
+      "num": 301,
+      "sura": 27,
+      "aya": 6
+    },
+    {
+      "num": 302,
+      "sura": 27,
+      "aya": 18
+    },
+    {
+      "num": 303,
+      "sura": 27,
+      "aya": 27
+    },
+    {
+      "num": 304,
+      "sura": 27,
+      "aya": 42
+    },
+    {
+      "num": 305,
+      "sura": 27,
+      "aya": 58
+    },
+    {
+      "num": 306,
+      "sura": 27,
+      "aya": 69
+    },
+    {
+      "num": 307,
+      "sura": 27,
+      "aya": 84
+    },
+    {
+      "num": 308,
+      "sura": 28,
+      "aya": 1
+    },
+    {
+      "num": 309,
+      "sura": 28,
+      "aya": 11
+    },
+    {
+      "num": 310,
+      "sura": 28,
+      "aya": 19
+    },
+    {
+      "num": 311,
+      "sura": 28,
+      "aya": 29
+    },
+    {
+      "num": 312,
+      "sura": 28,
+      "aya": 38
+    },
+    {
+      "num": 313,
+      "sura": 28,
+      "aya": 51
+    },
+    {
+      "num": 314,
+      "sura": 28,
+      "aya": 61
+    },
+    {
+      "num": 315,
+      "sura": 28,
+      "aya": 76
+    },
+    {
+      "num": 316,
+      "sura": 28,
+      "aya": 83
+    },
+    {
+      "num": 317,
+      "sura": 29,
+      "aya": 7
+    },
+    {
+      "num": 318,
+      "sura": 29,
+      "aya": 15
+    },
+    {
+      "num": 319,
+      "sura": 29,
+      "aya": 25
+    },
+    {
+      "num": 320,
+      "sura": 29,
+      "aya": 36
+    },
+    {
+      "num": 321,
+      "sura": 29,
+      "aya": 46
+    },
+    {
+      "num": 322,
+      "sura": 29,
+      "aya": 60
+    },
+    {
+      "num": 323,
+      "sura": 30,
+      "aya": 8
+    },
+    {
+      "num": 324,
+      "sura": 30,
+      "aya": 21
+    },
+    {
+      "num": 325,
+      "sura": 30,
+      "aya": 30
+    },
+    {
+      "num": 326,
+      "sura": 30,
+      "aya": 40
+    },
+    {
+      "num": 327,
+      "sura": 30,
+      "aya": 53
+    },
+    {
+      "num": 328,
+      "sura": 31,
+      "aya": 11
+    },
+    {
+      "num": 329,
+      "sura": 31,
+      "aya": 21
+    },
+    {
+      "num": 330,
+      "sura": 31,
+      "aya": 31
+    },
+    {
+      "num": 331,
+      "sura": 32,
+      "aya": 11
+    },
+    {
+      "num": 332,
+      "sura": 32,
+      "aya": 23
+    },
+    {
+      "num": 333,
+      "sura": 33,
+      "aya": 6
+    },
+    {
+      "num": 334,
+      "sura": 33,
+      "aya": 13
+    },
+    {
+      "num": 335,
+      "sura": 33,
+      "aya": 20
+    },
+    {
+      "num": 336,
+      "sura": 33,
+      "aya": 28
+    },
+    {
+      "num": 337,
+      "sura": 33,
+      "aya": 31
+    },
+    {
+      "num": 338,
+      "sura": 33,
+      "aya": 40
+    },
+    {
+      "num": 339,
+      "sura": 33,
+      "aya": 51
+    },
+    {
+      "num": 340,
+      "sura": 33,
+      "aya": 55
+    },
+    {
+      "num": 341,
+      "sura": 33,
+      "aya": 60
+    },
+    {
+      "num": 342,
+      "sura": 33,
+      "aya": 72
+    },
+    {
+      "num": 343,
+      "sura": 34,
+      "aya": 7
+    },
+    {
+      "num": 344,
+      "sura": 34,
+      "aya": 15
+    },
+    {
+      "num": 345,
+      "sura": 34,
+      "aya": 24
+    },
+    {
+      "num": 346,
+      "sura": 34,
+      "aya": 34
+    },
+    {
+      "num": 347,
+      "sura": 34,
+      "aya": 46
+    },
+    {
+      "num": 348,
+      "sura": 35,
+      "aya": 5
+    },
+    {
+      "num": 349,
+      "sura": 35,
+      "aya": 15
+    },
+    {
+      "num": 350,
+      "sura": 35,
+      "aya": 31
+    },
+    {
+      "num": 351,
+      "sura": 35,
+      "aya": 40
+    },
+    {
+      "num": 352,
+      "sura": 36,
+      "aya": 1
+    },
+    {
+      "num": 353,
+      "sura": 36,
+      "aya": 27
+    },
+    {
+      "num": 354,
+      "sura": 36,
+      "aya": 44
+    },
+    {
+      "num": 355,
+      "sura": 36,
+      "aya": 59
+    },
+    {
+      "num": 356,
+      "sura": 36,
+      "aya": 76
+    },
+    {
+      "num": 357,
+      "sura": 37,
+      "aya": 22
+    },
+    {
+      "num": 358,
+      "sura": 37,
+      "aya": 51
+    },
+    {
+      "num": 359,
+      "sura": 37,
+      "aya": 83
+    },
+    {
+      "num": 360,
+      "sura": 37,
+      "aya": 114
+    },
+    {
+      "num": 361,
+      "sura": 37,
+      "aya": 145
+    },
+    {
+      "num": 362,
+      "sura": 38,
+      "aya": 1
+    },
+    {
+      "num": 363,
+      "sura": 38,
+      "aya": 20
+    },
+    {
+      "num": 364,
+      "sura": 38,
+      "aya": 29
+    },
+    {
+      "num": 365,
+      "sura": 38,
+      "aya": 51
+    },
+    {
+      "num": 366,
+      "sura": 38,
+      "aya": 83
+    },
+    {
+      "num": 367,
+      "sura": 39,
+      "aya": 9
+    },
+    {
+      "num": 368,
+      "sura": 39,
+      "aya": 18
+    },
+    {
+      "num": 369,
+      "sura": 39,
+      "aya": 31
+    },
+    {
+      "num": 370,
+      "sura": 39,
+      "aya": 40
+    },
+    {
+      "num": 371,
+      "sura": 39,
+      "aya": 50
+    },
+    {
+      "num": 372,
+      "sura": 39,
+      "aya": 64
+    },
+    {
+      "num": 373,
+      "sura": 40,
+      "aya": 1
+    },
+    {
+      "num": 374,
+      "sura": 40,
+      "aya": 9
+    },
+    {
+      "num": 375,
+      "sura": 40,
+      "aya": 21
+    },
+    {
+      "num": 376,
+      "sura": 40,
+      "aya": 30
+    },
+    {
+      "num": 377,
+      "sura": 40,
+      "aya": 41
+    },
+    {
+      "num": 378,
+      "sura": 40,
+      "aya": 53
+    },
+    {
+      "num": 379,
+      "sura": 40,
+      "aya": 66
+    },
+    {
+      "num": 380,
+      "sura": 40,
+      "aya": 78
+    },
+    {
+      "num": 381,
+      "sura": 41,
+      "aya": 8
+    },
+    {
+      "num": 382,
+      "sura": 41,
+      "aya": 16
+    },
+    {
+      "num": 383,
+      "sura": 41,
+      "aya": 25
+    },
+    {
+      "num": 384,
+      "sura": 41,
+      "aya": 37
+    },
+    {
+      "num": 385,
+      "sura": 41,
+      "aya": 46
+    },
+    {
+      "num": 386,
+      "sura": 42,
+      "aya": 1
+    },
+    {
+      "num": 387,
+      "sura": 42,
+      "aya": 11
+    },
+    {
+      "num": 388,
+      "sura": 42,
+      "aya": 19
+    },
+    {
+      "num": 389,
+      "sura": 42,
+      "aya": 31
+    },
+    {
+      "num": 390,
+      "sura": 42,
+      "aya": 40
+    },
+    {
+      "num": 391,
+      "sura": 42,
+      "aya": 48
+    },
+    {
+      "num": 392,
+      "sura": 43,
+      "aya": 11
+    },
+    {
+      "num": 393,
+      "sura": 43,
+      "aya": 23
+    },
+    {
+      "num": 394,
+      "sura": 43,
+      "aya": 42
+    },
+    {
+      "num": 395,
+      "sura": 43,
+      "aya": 63
+    },
+    {
+      "num": 396,
+      "sura": 43,
+      "aya": 84
+    },
+    {
+      "num": 397,
+      "sura": 44,
+      "aya": 24
+    },
+    {
+      "num": 398,
+      "sura": 44,
+      "aya": 48
+    },
+    {
+      "num": 399,
+      "sura": 45,
+      "aya": 10
+    },
+    {
+      "num": 400,
+      "sura": 45,
+      "aya": 22
+    },
+    {
+      "num": 401,
+      "sura": 46,
+      "aya": 1
+    },
+    {
+      "num": 402,
+      "sura": 46,
+      "aya": 14
+    },
+    {
+      "num": 403,
+      "sura": 46,
+      "aya": 20
+    },
+    {
+      "num": 404,
+      "sura": 46,
+      "aya": 32
+    },
+    {
+      "num": 405,
+      "sura": 47,
+      "aya": 11
+    },
+    {
+      "num": 406,
+      "sura": 47,
+      "aya": 21
+    },
+    {
+      "num": 407,
+      "sura": 47,
+      "aya": 34
+    },
+    {
+      "num": 408,
+      "sura": 48,
+      "aya": 8
+    },
+    {
+      "num": 409,
+      "sura": 48,
+      "aya": 18
+    },
+    {
+      "num": 410,
+      "sura": 48,
+      "aya": 27
+    },
+    {
+      "num": 411,
+      "sura": 49,
+      "aya": 1
+    },
+    {
+      "num": 412,
+      "sura": 49,
+      "aya": 9
+    },
+    {
+      "num": 413,
+      "sura": 49,
+      "aya": 14
+    },
+    {
+      "num": 414,
+      "sura": 50,
+      "aya": 6
+    },
+    {
+      "num": 415,
+      "sura": 50,
+      "aya": 27
+    },
+    {
+      "num": 416,
+      "sura": 51,
+      "aya": 1
+    },
+    {
+      "num": 417,
+      "sura": 51,
+      "aya": 31
+    },
+    {
+      "num": 418,
+      "sura": 51,
+      "aya": 56
+    },
+    {
+      "num": 419,
+      "sura": 52,
+      "aya": 22
+    },
+    {
+      "num": 420,
+      "sura": 52,
+      "aya": 42
+    },
+    {
+      "num": 421,
+      "sura": 53,
+      "aya": 26
+    },
+    {
+      "num": 422,
+      "sura": 53,
+      "aya": 55
+    },
+    {
+      "num": 423,
+      "sura": 54,
+      "aya": 18
+    },
+    {
+      "num": 424,
+      "sura": 54,
+      "aya": 41
+    },
+    {
+      "num": 425,
+      "sura": 55,
+      "aya": 1
+    },
+    {
+      "num": 426,
+      "sura": 55,
+      "aya": 31
+    },
+    {
+      "num": 427,
+      "sura": 55,
+      "aya": 59
+    },
+    {
+      "num": 428,
+      "sura": 56,
+      "aya": 29
+    },
+    {
+      "num": 429,
+      "sura": 56,
+      "aya": 78
+    },
+    {
+      "num": 430,
+      "sura": 57,
+      "aya": 7
+    },
+    {
+      "num": 431,
+      "sura": 57,
+      "aya": 15
+    },
+    {
+      "num": 432,
+      "sura": 57,
+      "aya": 21
+    },
+    {
+      "num": 433,
+      "sura": 58,
+      "aya": 1
+    },
+    {
+      "num": 434,
+      "sura": 58,
+      "aya": 8
+    },
+    {
+      "num": 435,
+      "sura": 58,
+      "aya": 14
+    },
+    {
+      "num": 436,
+      "sura": 59,
+      "aya": 5
+    },
+    {
+      "num": 437,
+      "sura": 59,
+      "aya": 11
+    },
+    {
+      "num": 438,
+      "sura": 60,
+      "aya": 1
+    },
+    {
+      "num": 439,
+      "sura": 60,
+      "aya": 7
+    },
+    {
+      "num": 440,
+      "sura": 61,
+      "aya": 1
+    },
+    {
+      "num": 441,
+      "sura": 62,
+      "aya": 1
+    },
+    {
+      "num": 442,
+      "sura": 62,
+      "aya": 9
+    },
+    {
+      "num": 443,
+      "sura": 63,
+      "aya": 9
+    },
+    {
+      "num": 444,
+      "sura": 64,
+      "aya": 7
+    },
+    {
+      "num": 445,
+      "sura": 64,
+      "aya": 14
+    },
+    {
+      "num": 446,
+      "sura": 65,
+      "aya": 6
+    },
+    {
+      "num": 447,
+      "sura": 65,
+      "aya": 12
+    },
+    {
+      "num": 448,
+      "sura": 66,
+      "aya": 8
+    },
+    {
+      "num": 449,
+      "sura": 67,
+      "aya": 1
+    },
+    {
+      "num": 450,
+      "sura": 67,
+      "aya": 20
+    },
+    {
+      "num": 451,
+      "sura": 68,
+      "aya": 19
+    },
+    {
+      "num": 452,
+      "sura": 68,
+      "aya": 48
+    },
+    {
+      "num": 453,
+      "sura": 69,
+      "aya": 38
+    },
+    {
+      "num": 454,
+      "sura": 70,
+      "aya": 19
+    },
+    {
+      "num": 455,
+      "sura": 70,
+      "aya": 40
+    },
+    {
+      "num": 456,
+      "sura": 71,
+      "aya": 15
+    },
+    {
+      "num": 457,
+      "sura": 72,
+      "aya": 1
+    },
+    {
+      "num": 458,
+      "sura": 72,
+      "aya": 18
+    },
+    {
+      "num": 459,
+      "sura": 73,
+      "aya": 18
+    },
+    {
+      "num": 460,
+      "sura": 74,
+      "aya": 31
+    },
+    {
+      "num": 461,
+      "sura": 75,
+      "aya": 1
+    },
+    {
+      "num": 462,
+      "sura": 76,
+      "aya": 1
+    },
+    {
+      "num": 463,
+      "sura": 76,
+      "aya": 19
+    },
+    {
+      "num": 464,
+      "sura": 77,
+      "aya": 16
+    },
+    {
+      "num": 465,
+      "sura": 78,
+      "aya": 1
+    },
+    {
+      "num": 466,
+      "sura": 79,
+      "aya": 1
+    },
+    {
+      "num": 467,
+      "sura": 79,
+      "aya": 41
+    },
+    {
+      "num": 468,
+      "sura": 80,
+      "aya": 33
+    },
+    {
+      "num": 469,
+      "sura": 81,
+      "aya": 15
+    },
+    {
+      "num": 470,
+      "sura": 83,
+      "aya": 7
+    },
+    {
+      "num": 471,
+      "sura": 84,
+      "aya": 16
+    },
+    {
+      "num": 472,
+      "sura": 85,
+      "aya": 12
+    },
+    {
+      "num": 473,
+      "sura": 87,
+      "aya": 1
+    },
+    {
+      "num": 474,
+      "sura": 88,
+      "aya": 17
+    },
+    {
+      "num": 475,
+      "sura": 90,
+      "aya": 1
+    },
+    {
+      "num": 476,
+      "sura": 92,
+      "aya": 1
+    },
+    {
+      "num": 477,
+      "sura": 94,
+      "aya": 1
+    },
+    {
+      "num": 478,
+      "sura": 97,
+      "aya": 1
+    },
+    {
+      "num": 479,
+      "sura": 100,
+      "aya": 9
+    },
+    {
+      "num": 480,
+      "sura": 105,
+      "aya": 1
+    }
+  ],
+  "sajdaat": [
+    {
+      "num": 1,
+      "sura": 7,
+      "aya": 206,
+      "obligatory": false
+    },
+    {
+      "num": 2,
+      "sura": 13,
+      "aya": 16,
+      "obligatory": false
+    },
+    {
+      "num": 3,
+      "sura": 16,
+      "aya": 50,
+      "obligatory": false
+    },
+    {
+      "num": 4,
+      "sura": 17,
+      "aya": 108,
+      "obligatory": false
+    },
+    {
+      "num": 5,
+      "sura": 19,
+      "aya": 58,
+      "obligatory": false
+    },
+    {
+      "num": 6,
+      "sura": 22,
+      "aya": 18,
+      "obligatory": false
+    },
+    {
+      "num": 7,
+      "sura": 25,
+      "aya": 60,
+      "obligatory": false
+    },
+    {
+      "num": 8,
+      "sura": 27,
+      "aya": 26,
+      "obligatory": false
+    },
+    {
+      "num": 9,
+      "sura": 32,
+      "aya": 15,
+      "obligatory": false
+    },
+    {
+      "num": 10,
+      "sura": 38,
+      "aya": 23,
+      "obligatory": false
+    },
+    {
+      "num": 11,
+      "sura": 41,
+      "aya": 36,
+      "obligatory": false
+    },
+    {
+      "num": 12,
+      "sura": 53,
+      "aya": 61,
+      "obligatory": false
+    },
+    {
+      "num": 13,
+      "sura": 84,
+      "aya": 21,
+      "obligatory": false
+    },
+    {
+      "num": 14,
+      "sura": 96,
+      "aya": 20,
+      "obligatory": false
+    }
+  ],
+  "page_starts": [
+    {
+      "num": 1,
+      "sura": 1,
+      "aya": 1
+    },
+    {
+      "num": 2,
+      "sura": 2,
+      "aya": 1
+    },
+    {
+      "num": 3,
+      "sura": 2,
+      "aya": 5
+    },
+    {
+      "num": 4,
+      "sura": 2,
+      "aya": 16
+    },
+    {
+      "num": 5,
+      "sura": 2,
+      "aya": 24
+    },
+    {
+      "num": 6,
+      "sura": 2,
+      "aya": 29
+    },
+    {
+      "num": 7,
+      "sura": 2,
+      "aya": 37
+    },
+    {
+      "num": 8,
+      "sura": 2,
+      "aya": 48
+    },
+    {
+      "num": 9,
+      "sura": 2,
+      "aya": 57
+    },
+    {
+      "num": 10,
+      "sura": 2,
+      "aya": 61
+    },
+    {
+      "num": 11,
+      "sura": 2,
+      "aya": 69
+    },
+    {
+      "num": 12,
+      "sura": 2,
+      "aya": 76
+    },
+    {
+      "num": 13,
+      "sura": 2,
+      "aya": 83
+    },
+    {
+      "num": 14,
+      "sura": 2,
+      "aya": 88
+    },
+    {
+      "num": 15,
+      "sura": 2,
+      "aya": 93
+    },
+    {
+      "num": 16,
+      "sura": 2,
+      "aya": 101
+    },
+    {
+      "num": 17,
+      "sura": 2,
+      "aya": 105
+    },
+    {
+      "num": 18,
+      "sura": 2,
+      "aya": 112
+    },
+    {
+      "num": 19,
+      "sura": 2,
+      "aya": 119
+    },
+    {
+      "num": 20,
+      "sura": 2,
+      "aya": 126
+    },
+    {
+      "num": 21,
+      "sura": 2,
+      "aya": 134
+    },
+    {
+      "num": 22,
+      "sura": 2,
+      "aya": 141
+    },
+    {
+      "num": 23,
+      "sura": 2,
+      "aya": 145
+    },
+    {
+      "num": 24,
+      "sura": 2,
+      "aya": 153
+    },
+    {
+      "num": 25,
+      "sura": 2,
+      "aya": 163
+    },
+    {
+      "num": 26,
+      "sura": 2,
+      "aya": 169
+    },
+    {
+      "num": 27,
+      "sura": 2,
+      "aya": 176
+    },
+    {
+      "num": 28,
+      "sura": 2,
+      "aya": 181
+    },
+    {
+      "num": 29,
+      "sura": 2,
+      "aya": 186
+    },
+    {
+      "num": 30,
+      "sura": 2,
+      "aya": 190
+    },
+    {
+      "num": 31,
+      "sura": 2,
+      "aya": 196
+    },
+    {
+      "num": 32,
+      "sura": 2,
+      "aya": 201
+    },
+    {
+      "num": 33,
+      "sura": 2,
+      "aya": 209
+    },
+    {
+      "num": 34,
+      "sura": 2,
+      "aya": 214
+    },
+    {
+      "num": 35,
+      "sura": 2,
+      "aya": 218
+    },
+    {
+      "num": 36,
+      "sura": 2,
+      "aya": 223
+    },
+    {
+      "num": 37,
+      "sura": 2,
+      "aya": 229
+    },
+    {
+      "num": 38,
+      "sura": 2,
+      "aya": 232
+    },
+    {
+      "num": 39,
+      "sura": 2,
+      "aya": 236
+    },
+    {
+      "num": 40,
+      "sura": 2,
+      "aya": 244
+    },
+    {
+      "num": 41,
+      "sura": 2,
+      "aya": 247
+    },
+    {
+      "num": 42,
+      "sura": 2,
+      "aya": 251
+    },
+    {
+      "num": 43,
+      "sura": 2,
+      "aya": 256
+    },
+    {
+      "num": 44,
+      "sura": 2,
+      "aya": 259
+    },
+    {
+      "num": 45,
+      "sura": 2,
+      "aya": 264
+    },
+    {
+      "num": 46,
+      "sura": 2,
+      "aya": 269
+    },
+    {
+      "num": 47,
+      "sura": 2,
+      "aya": 274
+    },
+    {
+      "num": 48,
+      "sura": 2,
+      "aya": 281
+    },
+    {
+      "num": 49,
+      "sura": 2,
+      "aya": 282
+    },
+    {
+      "num": 50,
+      "sura": 3,
+      "aya": 1
+    },
+    {
+      "num": 51,
+      "sura": 3,
+      "aya": 10
+    },
+    {
+      "num": 52,
+      "sura": 3,
+      "aya": 16
+    },
+    {
+      "num": 53,
+      "sura": 3,
+      "aya": 23
+    },
+    {
+      "num": 54,
+      "sura": 3,
+      "aya": 30
+    },
+    {
+      "num": 55,
+      "sura": 3,
+      "aya": 38
+    },
+    {
+      "num": 56,
+      "sura": 3,
+      "aya": 46
+    },
+    {
+      "num": 57,
+      "sura": 3,
+      "aya": 52
+    },
+    {
+      "num": 58,
+      "sura": 3,
+      "aya": 61
+    },
+    {
+      "num": 59,
+      "sura": 3,
+      "aya": 70
+    },
+    {
+      "num": 60,
+      "sura": 3,
+      "aya": 77
+    },
+    {
+      "num": 61,
+      "sura": 3,
+      "aya": 83
+    },
+    {
+      "num": 62,
+      "sura": 3,
+      "aya": 91
+    },
+    {
+      "num": 63,
+      "sura": 3,
+      "aya": 101
+    },
+    {
+      "num": 64,
+      "sura": 3,
+      "aya": 109
+    },
+    {
+      "num": 65,
+      "sura": 3,
+      "aya": 116
+    },
+    {
+      "num": 66,
+      "sura": 3,
+      "aya": 122
+    },
+    {
+      "num": 67,
+      "sura": 3,
+      "aya": 133
+    },
+    {
+      "num": 68,
+      "sura": 3,
+      "aya": 141
+    },
+    {
+      "num": 69,
+      "sura": 3,
+      "aya": 149
+    },
+    {
+      "num": 70,
+      "sura": 3,
+      "aya": 154
+    },
+    {
+      "num": 71,
+      "sura": 3,
+      "aya": 158
+    },
+    {
+      "num": 72,
+      "sura": 3,
+      "aya": 166
+    },
+    {
+      "num": 73,
+      "sura": 3,
+      "aya": 174
+    },
+    {
+      "num": 74,
+      "sura": 3,
+      "aya": 181
+    },
+    {
+      "num": 75,
+      "sura": 3,
+      "aya": 187
+    },
+    {
+      "num": 76,
+      "sura": 3,
+      "aya": 195
+    },
+    {
+      "num": 77,
+      "sura": 4,
+      "aya": 1
+    },
+    {
+      "num": 78,
+      "sura": 4,
+      "aya": 7
+    },
+    {
+      "num": 79,
+      "sura": 4,
+      "aya": 12
+    },
+    {
+      "num": 80,
+      "sura": 4,
+      "aya": 15
+    },
+    {
+      "num": 81,
+      "sura": 4,
+      "aya": 20
+    },
+    {
+      "num": 82,
+      "sura": 4,
+      "aya": 24
+    },
+    {
+      "num": 83,
+      "sura": 4,
+      "aya": 27
+    },
+    {
+      "num": 84,
+      "sura": 4,
+      "aya": 34
+    },
+    {
+      "num": 85,
+      "sura": 4,
+      "aya": 38
+    },
+    {
+      "num": 86,
+      "sura": 4,
+      "aya": 45
+    },
+    {
+      "num": 87,
+      "sura": 4,
+      "aya": 51
+    },
+    {
+      "num": 88,
+      "sura": 4,
+      "aya": 59
+    },
+    {
+      "num": 89,
+      "sura": 4,
+      "aya": 65
+    },
+    {
+      "num": 90,
+      "sura": 4,
+      "aya": 74
+    },
+    {
+      "num": 91,
+      "sura": 4,
+      "aya": 79
+    },
+    {
+      "num": 92,
+      "sura": 4,
+      "aya": 86
+    },
+    {
+      "num": 93,
+      "sura": 4,
+      "aya": 91
+    },
+    {
+      "num": 94,
+      "sura": 4,
+      "aya": 94
+    },
+    {
+      "num": 95,
+      "sura": 4,
+      "aya": 101
+    },
+    {
+      "num": 96,
+      "sura": 4,
+      "aya": 105
+    },
+    {
+      "num": 97,
+      "sura": 4,
+      "aya": 113
+    },
+    {
+      "num": 98,
+      "sura": 4,
+      "aya": 121
+    },
+    {
+      "num": 99,
+      "sura": 4,
+      "aya": 127
+    },
+    {
+      "num": 100,
+      "sura": 4,
+      "aya": 134
+    },
+    {
+      "num": 101,
+      "sura": 4,
+      "aya": 140
+    },
+    {
+      "num": 102,
+      "sura": 4,
+      "aya": 147
+    },
+    {
+      "num": 103,
+      "sura": 4,
+      "aya": 154
+    },
+    {
+      "num": 104,
+      "sura": 4,
+      "aya": 162
+    },
+    {
+      "num": 105,
+      "sura": 4,
+      "aya": 170
+    },
+    {
+      "num": 106,
+      "sura": 4,
+      "aya": 175
+    },
+    {
+      "num": 107,
+      "sura": 5,
+      "aya": 4
+    },
+    {
+      "num": 108,
+      "sura": 5,
+      "aya": 7
+    },
+    {
+      "num": 109,
+      "sura": 5,
+      "aya": 11
+    },
+    {
+      "num": 110,
+      "sura": 5,
+      "aya": 15
+    },
+    {
+      "num": 111,
+      "sura": 5,
+      "aya": 20
+    },
+    {
+      "num": 112,
+      "sura": 5,
+      "aya": 26
+    },
+    {
+      "num": 113,
+      "sura": 5,
+      "aya": 34
+    },
+    {
+      "num": 114,
+      "sura": 5,
+      "aya": 39
+    },
+    {
+      "num": 115,
+      "sura": 5,
+      "aya": 44
+    },
+    {
+      "num": 116,
+      "sura": 5,
+      "aya": 48
+    },
+    {
+      "num": 117,
+      "sura": 5,
+      "aya": 53
+    },
+    {
+      "num": 118,
+      "sura": 5,
+      "aya": 60
+    },
+    {
+      "num": 119,
+      "sura": 5,
+      "aya": 67
+    },
+    {
+      "num": 120,
+      "sura": 5,
+      "aya": 73
+    },
+    {
+      "num": 121,
+      "sura": 5,
+      "aya": 80
+    },
+    {
+      "num": 122,
+      "sura": 5,
+      "aya": 86
+    },
+    {
+      "num": 123,
+      "sura": 5,
+      "aya": 93
+    },
+    {
+      "num": 124,
+      "sura": 5,
+      "aya": 98
+    },
+    {
+      "num": 125,
+      "sura": 5,
+      "aya": 106
+    },
+    {
+      "num": 126,
+      "sura": 5,
+      "aya": 111
+    },
+    {
+      "num": 127,
+      "sura": 5,
+      "aya": 116
+    },
+    {
+      "num": 128,
+      "sura": 6,
+      "aya": 1
+    },
+    {
+      "num": 129,
+      "sura": 6,
+      "aya": 10
+    },
+    {
+      "num": 130,
+      "sura": 6,
+      "aya": 20
+    },
+    {
+      "num": 131,
+      "sura": 6,
+      "aya": 29
+    },
+    {
+      "num": 132,
+      "sura": 6,
+      "aya": 37
+    },
+    {
+      "num": 133,
+      "sura": 6,
+      "aya": 46
+    },
+    {
+      "num": 134,
+      "sura": 6,
+      "aya": 54
+    },
+    {
+      "num": 135,
+      "sura": 6,
+      "aya": 61
+    },
+    {
+      "num": 136,
+      "sura": 6,
+      "aya": 69
+    },
+    {
+      "num": 137,
+      "sura": 6,
+      "aya": 75
+    },
+    {
+      "num": 138,
+      "sura": 6,
+      "aya": 83
+    },
+    {
+      "num": 139,
+      "sura": 6,
+      "aya": 92
+    },
+    {
+      "num": 140,
+      "sura": 6,
+      "aya": 96
+    },
+    {
+      "num": 141,
+      "sura": 6,
+      "aya": 103
+    },
+    {
+      "num": 142,
+      "sura": 6,
+      "aya": 112
+    },
+    {
+      "num": 143,
+      "sura": 6,
+      "aya": 120
+    },
+    {
+      "num": 144,
+      "sura": 6,
+      "aya": 126
+    },
+    {
+      "num": 145,
+      "sura": 6,
+      "aya": 132
+    },
+    {
+      "num": 146,
+      "sura": 6,
+      "aya": 139
+    },
+    {
+      "num": 147,
+      "sura": 6,
+      "aya": 144
+    },
+    {
+      "num": 148,
+      "sura": 6,
+      "aya": 148
+    },
+    {
+      "num": 149,
+      "sura": 6,
+      "aya": 153
+    },
+    {
+      "num": 150,
+      "sura": 6,
+      "aya": 159
+    },
+    {
+      "num": 151,
+      "sura": 7,
+      "aya": 1
+    },
+    {
+      "num": 152,
+      "sura": 7,
+      "aya": 11
+    },
+    {
+      "num": 153,
+      "sura": 7,
+      "aya": 22
+    },
+    {
+      "num": 154,
+      "sura": 7,
+      "aya": 29
+    },
+    {
+      "num": 155,
+      "sura": 7,
+      "aya": 36
+    },
+    {
+      "num": 156,
+      "sura": 7,
+      "aya": 43
+    },
+    {
+      "num": 157,
+      "sura": 7,
+      "aya": 51
+    },
+    {
+      "num": 158,
+      "sura": 7,
+      "aya": 57
+    },
+    {
+      "num": 159,
+      "sura": 7,
+      "aya": 67
+    },
+    {
+      "num": 160,
+      "sura": 7,
+      "aya": 73
+    },
+    {
+      "num": 161,
+      "sura": 7,
+      "aya": 81
+    },
+    {
+      "num": 162,
+      "sura": 7,
+      "aya": 87
+    },
+    {
+      "num": 163,
+      "sura": 7,
+      "aya": 95
+    },
+    {
+      "num": 164,
+      "sura": 7,
+      "aya": 104
+    },
+    {
+      "num": 165,
+      "sura": 7,
+      "aya": 120
+    },
+    {
+      "num": 166,
+      "sura": 7,
+      "aya": 130
+    },
+    {
+      "num": 167,
+      "sura": 7,
+      "aya": 138
+    },
+    {
+      "num": 168,
+      "sura": 7,
+      "aya": 144
+    },
+    {
+      "num": 169,
+      "sura": 7,
+      "aya": 150
+    },
+    {
+      "num": 170,
+      "sura": 7,
+      "aya": 156
+    },
+    {
+      "num": 171,
+      "sura": 7,
+      "aya": 160
+    },
+    {
+      "num": 172,
+      "sura": 7,
+      "aya": 164
+    },
+    {
+      "num": 173,
+      "sura": 7,
+      "aya": 171
+    },
+    {
+      "num": 174,
+      "sura": 7,
+      "aya": 179
+    },
+    {
+      "num": 175,
+      "sura": 7,
+      "aya": 188
+    },
+    {
+      "num": 176,
+      "sura": 7,
+      "aya": 196
+    },
+    {
+      "num": 177,
+      "sura": 8,
+      "aya": 1
+    },
+    {
+      "num": 178,
+      "sura": 8,
+      "aya": 9
+    },
+    {
+      "num": 179,
+      "sura": 8,
+      "aya": 17
+    },
+    {
+      "num": 180,
+      "sura": 8,
+      "aya": 26
+    },
+    {
+      "num": 181,
+      "sura": 8,
+      "aya": 34
+    },
+    {
+      "num": 182,
+      "sura": 8,
+      "aya": 41
+    },
+    {
+      "num": 183,
+      "sura": 8,
+      "aya": 47
+    },
+    {
+      "num": 184,
+      "sura": 8,
+      "aya": 54
+    },
+    {
+      "num": 185,
+      "sura": 8,
+      "aya": 63
+    },
+    {
+      "num": 186,
+      "sura": 8,
+      "aya": 71
+    },
+    {
+      "num": 187,
+      "sura": 9,
+      "aya": 1
+    },
+    {
+      "num": 188,
+      "sura": 9,
+      "aya": 7
+    },
+    {
+      "num": 189,
+      "sura": 9,
+      "aya": 14
+    },
+    {
+      "num": 190,
+      "sura": 9,
+      "aya": 21
+    },
+    {
+      "num": 191,
+      "sura": 9,
+      "aya": 27
+    },
+    {
+      "num": 192,
+      "sura": 9,
+      "aya": 32
+    },
+    {
+      "num": 193,
+      "sura": 9,
+      "aya": 37
+    },
+    {
+      "num": 194,
+      "sura": 9,
+      "aya": 41
+    },
+    {
+      "num": 195,
+      "sura": 9,
+      "aya": 48
+    },
+    {
+      "num": 196,
+      "sura": 9,
+      "aya": 55
+    },
+    {
+      "num": 197,
+      "sura": 9,
+      "aya": 62
+    },
+    {
+      "num": 198,
+      "sura": 9,
+      "aya": 69
+    },
+    {
+      "num": 199,
+      "sura": 9,
+      "aya": 74
+    },
+    {
+      "num": 200,
+      "sura": 9,
+      "aya": 81
+    },
+    {
+      "num": 201,
+      "sura": 9,
+      "aya": 88
+    },
+    {
+      "num": 202,
+      "sura": 9,
+      "aya": 95
+    },
+    {
+      "num": 203,
+      "sura": 9,
+      "aya": 101
+    },
+    {
+      "num": 204,
+      "sura": 9,
+      "aya": 108
+    },
+    {
+      "num": 205,
+      "sura": 9,
+      "aya": 113
+    },
+    {
+      "num": 206,
+      "sura": 9,
+      "aya": 119
+    },
+    {
+      "num": 207,
+      "sura": 9,
+      "aya": 124
+    },
+    {
+      "num": 208,
+      "sura": 10,
+      "aya": 1
+    },
+    {
+      "num": 209,
+      "sura": 10,
+      "aya": 7
+    },
+    {
+      "num": 210,
+      "sura": 10,
+      "aya": 15
+    },
+    {
+      "num": 211,
+      "sura": 10,
+      "aya": 21
+    },
+    {
+      "num": 212,
+      "sura": 10,
+      "aya": 26
+    },
+    {
+      "num": 213,
+      "sura": 10,
+      "aya": 34
+    },
+    {
+      "num": 214,
+      "sura": 10,
+      "aya": 43
+    },
+    {
+      "num": 215,
+      "sura": 10,
+      "aya": 54
+    },
+    {
+      "num": 216,
+      "sura": 10,
+      "aya": 62
+    },
+    {
+      "num": 217,
+      "sura": 10,
+      "aya": 71
+    },
+    {
+      "num": 218,
+      "sura": 10,
+      "aya": 79
+    },
+    {
+      "num": 219,
+      "sura": 10,
+      "aya": 89
+    },
+    {
+      "num": 220,
+      "sura": 10,
+      "aya": 98
+    },
+    {
+      "num": 221,
+      "sura": 10,
+      "aya": 107
+    },
+    {
+      "num": 222,
+      "sura": 11,
+      "aya": 6
+    },
+    {
+      "num": 223,
+      "sura": 11,
+      "aya": 13
+    },
+    {
+      "num": 224,
+      "sura": 11,
+      "aya": 20
+    },
+    {
+      "num": 225,
+      "sura": 11,
+      "aya": 29
+    },
+    {
+      "num": 226,
+      "sura": 11,
+      "aya": 38
+    },
+    {
+      "num": 227,
+      "sura": 11,
+      "aya": 46
+    },
+    {
+      "num": 228,
+      "sura": 11,
+      "aya": 54
+    },
+    {
+      "num": 229,
+      "sura": 11,
+      "aya": 62
+    },
+    {
+      "num": 230,
+      "sura": 11,
+      "aya": 71
+    },
+    {
+      "num": 231,
+      "sura": 11,
+      "aya": 81
+    },
+    {
+      "num": 232,
+      "sura": 11,
+      "aya": 89
+    },
+    {
+      "num": 233,
+      "sura": 11,
+      "aya": 98
+    },
+    {
+      "num": 234,
+      "sura": 11,
+      "aya": 109
+    },
+    {
+      "num": 235,
+      "sura": 11,
+      "aya": 118
+    },
+    {
+      "num": 236,
+      "sura": 12,
+      "aya": 5
+    },
+    {
+      "num": 237,
+      "sura": 12,
+      "aya": 15
+    },
+    {
+      "num": 238,
+      "sura": 12,
+      "aya": 23
+    },
+    {
+      "num": 239,
+      "sura": 12,
+      "aya": 31
+    },
+    {
+      "num": 240,
+      "sura": 12,
+      "aya": 38
+    },
+    {
+      "num": 241,
+      "sura": 12,
+      "aya": 44
+    },
+    {
+      "num": 242,
+      "sura": 12,
+      "aya": 53
+    },
+    {
+      "num": 243,
+      "sura": 12,
+      "aya": 64
+    },
+    {
+      "num": 244,
+      "sura": 12,
+      "aya": 70
+    },
+    {
+      "num": 245,
+      "sura": 12,
+      "aya": 79
+    },
+    {
+      "num": 246,
+      "sura": 12,
+      "aya": 87
+    },
+    {
+      "num": 247,
+      "sura": 12,
+      "aya": 96
+    },
+    {
+      "num": 248,
+      "sura": 12,
+      "aya": 104
+    },
+    {
+      "num": 249,
+      "sura": 13,
+      "aya": 1
+    },
+    {
+      "num": 250,
+      "sura": 13,
+      "aya": 7
+    },
+    {
+      "num": 251,
+      "sura": 13,
+      "aya": 15
+    },
+    {
+      "num": 252,
+      "sura": 13,
+      "aya": 21
+    },
+    {
+      "num": 253,
+      "sura": 13,
+      "aya": 30
+    },
+    {
+      "num": 254,
+      "sura": 13,
+      "aya": 36
+    },
+    {
+      "num": 255,
+      "sura": 13,
+      "aya": 44
+    },
+    {
+      "num": 256,
+      "sura": 14,
+      "aya": 8
+    },
+    {
+      "num": 257,
+      "sura": 14,
+      "aya": 14
+    },
+    {
+      "num": 258,
+      "sura": 14,
+      "aya": 22
+    },
+    {
+      "num": 259,
+      "sura": 14,
+      "aya": 27
+    },
+    {
+      "num": 260,
+      "sura": 14,
+      "aya": 36
+    },
+    {
+      "num": 261,
+      "sura": 14,
+      "aya": 45
+    },
+    {
+      "num": 262,
+      "sura": 15,
+      "aya": 1
+    },
+    {
+      "num": 263,
+      "sura": 15,
+      "aya": 16
+    },
+    {
+      "num": 264,
+      "sura": 15,
+      "aya": 32
+    },
+    {
+      "num": 265,
+      "sura": 15,
+      "aya": 52
+    },
+    {
+      "num": 266,
+      "sura": 15,
+      "aya": 71
+    },
+    {
+      "num": 267,
+      "sura": 15,
+      "aya": 91
+    },
+    {
+      "num": 268,
+      "sura": 16,
+      "aya": 7
+    },
+    {
+      "num": 269,
+      "sura": 16,
+      "aya": 15
+    },
+    {
+      "num": 270,
+      "sura": 16,
+      "aya": 27
+    },
+    {
+      "num": 271,
+      "sura": 16,
+      "aya": 35
+    },
+    {
+      "num": 272,
+      "sura": 16,
+      "aya": 43
+    },
+    {
+      "num": 273,
+      "sura": 16,
+      "aya": 55
+    },
+    {
+      "num": 274,
+      "sura": 16,
+      "aya": 65
+    },
+    {
+      "num": 275,
+      "sura": 16,
+      "aya": 73
+    },
+    {
+      "num": 276,
+      "sura": 16,
+      "aya": 80
+    },
+    {
+      "num": 277,
+      "sura": 16,
+      "aya": 88
+    },
+    {
+      "num": 278,
+      "sura": 16,
+      "aya": 94
+    },
+    {
+      "num": 279,
+      "sura": 16,
+      "aya": 103
+    },
+    {
+      "num": 280,
+      "sura": 16,
+      "aya": 111
+    },
+    {
+      "num": 281,
+      "sura": 16,
+      "aya": 119
+    },
+    {
+      "num": 282,
+      "sura": 17,
+      "aya": 1
+    },
+    {
+      "num": 283,
+      "sura": 17,
+      "aya": 8
+    },
+    {
+      "num": 284,
+      "sura": 17,
+      "aya": 18
+    },
+    {
+      "num": 285,
+      "sura": 17,
+      "aya": 28
+    },
+    {
+      "num": 286,
+      "sura": 17,
+      "aya": 39
+    },
+    {
+      "num": 287,
+      "sura": 17,
+      "aya": 50
+    },
+    {
+      "num": 288,
+      "sura": 17,
+      "aya": 59
+    },
+    {
+      "num": 289,
+      "sura": 17,
+      "aya": 67
+    },
+    {
+      "num": 290,
+      "sura": 17,
+      "aya": 76
+    },
+    {
+      "num": 291,
+      "sura": 17,
+      "aya": 87
+    },
+    {
+      "num": 292,
+      "sura": 17,
+      "aya": 97
+    },
+    {
+      "num": 293,
+      "sura": 17,
+      "aya": 105
+    },
+    {
+      "num": 294,
+      "sura": 18,
+      "aya": 5
+    },
+    {
+      "num": 295,
+      "sura": 18,
+      "aya": 16
+    },
+    {
+      "num": 296,
+      "sura": 18,
+      "aya": 21
+    },
+    {
+      "num": 297,
+      "sura": 18,
+      "aya": 28
+    },
+    {
+      "num": 298,
+      "sura": 18,
+      "aya": 35
+    },
+    {
+      "num": 299,
+      "sura": 18,
+      "aya": 45
+    },
+    {
+      "num": 300,
+      "sura": 18,
+      "aya": 53
+    },
+    {
+      "num": 301,
+      "sura": 18,
+      "aya": 61
+    },
+    {
+      "num": 302,
+      "sura": 18,
+      "aya": 74
+    },
+    {
+      "num": 303,
+      "sura": 18,
+      "aya": 83
+    },
+    {
+      "num": 304,
+      "sura": 18,
+      "aya": 94
+    },
+    {
+      "num": 305,
+      "sura": 19,
+      "aya": 1
+    },
+    {
+      "num": 306,
+      "sura": 19,
+      "aya": 11
+    },
+    {
+      "num": 307,
+      "sura": 19,
+      "aya": 25
+    },
+    {
+      "num": 308,
+      "sura": 19,
+      "aya": 38
+    },
+    {
+      "num": 309,
+      "sura": 19,
+      "aya": 52
+    },
+    {
+      "num": 310,
+      "sura": 19,
+      "aya": 65
+    },
+    {
+      "num": 311,
+      "sura": 19,
+      "aya": 78
+    },
+    {
+      "num": 312,
+      "sura": 19,
+      "aya": 97
+    },
+    {
+      "num": 313,
+      "sura": 20,
+      "aya": 12
+    },
+    {
+      "num": 314,
+      "sura": 20,
+      "aya": 37
+    },
+    {
+      "num": 315,
+      "sura": 20,
+      "aya": 51
+    },
+    {
+      "num": 316,
+      "sura": 20,
+      "aya": 64
+    },
+    {
+      "num": 317,
+      "sura": 20,
+      "aya": 76
+    },
+    {
+      "num": 318,
+      "sura": 20,
+      "aya": 87
+    },
+    {
+      "num": 319,
+      "sura": 20,
+      "aya": 97
+    },
+    {
+      "num": 320,
+      "sura": 20,
+      "aya": 111
+    },
+    {
+      "num": 321,
+      "sura": 20,
+      "aya": 124
+    },
+    {
+      "num": 322,
+      "sura": 21,
+      "aya": 1
+    },
+    {
+      "num": 323,
+      "sura": 21,
+      "aya": 11
+    },
+    {
+      "num": 324,
+      "sura": 21,
+      "aya": 25
+    },
+    {
+      "num": 325,
+      "sura": 21,
+      "aya": 36
+    },
+    {
+      "num": 326,
+      "sura": 21,
+      "aya": 45
+    },
+    {
+      "num": 327,
+      "sura": 21,
+      "aya": 58
+    },
+    {
+      "num": 328,
+      "sura": 21,
+      "aya": 72
+    },
+    {
+      "num": 329,
+      "sura": 21,
+      "aya": 81
+    },
+    {
+      "num": 330,
+      "sura": 21,
+      "aya": 90
+    },
+    {
+      "num": 331,
+      "sura": 21,
+      "aya": 101
+    },
+    {
+      "num": 332,
+      "sura": 22,
+      "aya": 1
+    },
+    {
+      "num": 333,
+      "sura": 22,
+      "aya": 6
+    },
+    {
+      "num": 334,
+      "sura": 22,
+      "aya": 16
+    },
+    {
+      "num": 335,
+      "sura": 22,
+      "aya": 22
+    },
+    {
+      "num": 336,
+      "sura": 22,
+      "aya": 29
+    },
+    {
+      "num": 337,
+      "sura": 22,
+      "aya": 37
+    },
+    {
+      "num": 338,
+      "sura": 22,
+      "aya": 45
+    },
+    {
+      "num": 339,
+      "sura": 22,
+      "aya": 54
+    },
+    {
+      "num": 340,
+      "sura": 22,
+      "aya": 63
+    },
+    {
+      "num": 341,
+      "sura": 22,
+      "aya": 71
+    },
+    {
+      "num": 342,
+      "sura": 23,
+      "aya": 1
+    },
+    {
+      "num": 343,
+      "sura": 23,
+      "aya": 18
+    },
+    {
+      "num": 344,
+      "sura": 23,
+      "aya": 28
+    },
+    {
+      "num": 345,
+      "sura": 23,
+      "aya": 43
+    },
+    {
+      "num": 346,
+      "sura": 23,
+      "aya": 61
+    },
+    {
+      "num": 347,
+      "sura": 23,
+      "aya": 76
+    },
+    {
+      "num": 348,
+      "sura": 23,
+      "aya": 91
+    },
+    {
+      "num": 349,
+      "sura": 23,
+      "aya": 106
+    },
+    {
+      "num": 350,
+      "sura": 24,
+      "aya": 1
+    },
+    {
+      "num": 351,
+      "sura": 24,
+      "aya": 11
+    },
+    {
+      "num": 352,
+      "sura": 24,
+      "aya": 21
+    },
+    {
+      "num": 353,
+      "sura": 24,
+      "aya": 28
+    },
+    {
+      "num": 354,
+      "sura": 24,
+      "aya": 32
+    },
+    {
+      "num": 355,
+      "sura": 24,
+      "aya": 37
+    },
+    {
+      "num": 356,
+      "sura": 24,
+      "aya": 43
+    },
+    {
+      "num": 357,
+      "sura": 24,
+      "aya": 52
+    },
+    {
+      "num": 358,
+      "sura": 24,
+      "aya": 57
+    },
+    {
+      "num": 359,
+      "sura": 24,
+      "aya": 60
+    },
+    {
+      "num": 360,
+      "sura": 25,
+      "aya": 3
+    },
+    {
+      "num": 361,
+      "sura": 25,
+      "aya": 12
+    },
+    {
+      "num": 362,
+      "sura": 25,
+      "aya": 21
+    },
+    {
+      "num": 363,
+      "sura": 25,
+      "aya": 33
+    },
+    {
+      "num": 364,
+      "sura": 25,
+      "aya": 44
+    },
+    {
+      "num": 365,
+      "sura": 25,
+      "aya": 56
+    },
+    {
+      "num": 366,
+      "sura": 25,
+      "aya": 68
+    },
+    {
+      "num": 367,
+      "sura": 26,
+      "aya": 1
+    },
+    {
+      "num": 368,
+      "sura": 26,
+      "aya": 19
+    },
+    {
+      "num": 369,
+      "sura": 26,
+      "aya": 39
+    },
+    {
+      "num": 370,
+      "sura": 26,
+      "aya": 61
+    },
+    {
+      "num": 371,
+      "sura": 26,
+      "aya": 84
+    },
+    {
+      "num": 372,
+      "sura": 26,
+      "aya": 112
+    },
+    {
+      "num": 373,
+      "sura": 26,
+      "aya": 137
+    },
+    {
+      "num": 374,
+      "sura": 26,
+      "aya": 160
+    },
+    {
+      "num": 375,
+      "sura": 26,
+      "aya": 184
+    },
+    {
+      "num": 376,
+      "sura": 26,
+      "aya": 207
+    },
+    {
+      "num": 377,
+      "sura": 27,
+      "aya": 1
+    },
+    {
+      "num": 378,
+      "sura": 27,
+      "aya": 14
+    },
+    {
+      "num": 379,
+      "sura": 27,
+      "aya": 23
+    },
+    {
+      "num": 380,
+      "sura": 27,
+      "aya": 37
+    },
+    {
+      "num": 381,
+      "sura": 27,
+      "aya": 47
+    },
+    {
+      "num": 382,
+      "sura": 27,
+      "aya": 58
+    },
+    {
+      "num": 383,
+      "sura": 27,
+      "aya": 66
+    },
+    {
+      "num": 384,
+      "sura": 27,
+      "aya": 79
+    },
+    {
+      "num": 385,
+      "sura": 27,
+      "aya": 91
+    },
+    {
+      "num": 386,
+      "sura": 28,
+      "aya": 5
+    },
+    {
+      "num": 387,
+      "sura": 28,
+      "aya": 13
+    },
+    {
+      "num": 388,
+      "sura": 28,
+      "aya": 21
+    },
+    {
+      "num": 389,
+      "sura": 28,
+      "aya": 29
+    },
+    {
+      "num": 390,
+      "sura": 28,
+      "aya": 36
+    },
+    {
+      "num": 391,
+      "sura": 28,
+      "aya": 44
+    },
+    {
+      "num": 392,
+      "sura": 28,
+      "aya": 51
+    },
+    {
+      "num": 393,
+      "sura": 28,
+      "aya": 60
+    },
+    {
+      "num": 394,
+      "sura": 28,
+      "aya": 71
+    },
+    {
+      "num": 395,
+      "sura": 28,
+      "aya": 78
+    },
+    {
+      "num": 396,
+      "sura": 28,
+      "aya": 85
+    },
+    {
+      "num": 397,
+      "sura": 29,
+      "aya": 6
+    },
+    {
+      "num": 398,
+      "sura": 29,
+      "aya": 14
+    },
+    {
+      "num": 399,
+      "sura": 29,
+      "aya": 23
+    },
+    {
+      "num": 400,
+      "sura": 29,
+      "aya": 31
+    },
+    {
+      "num": 401,
+      "sura": 29,
+      "aya": 39
+    },
+    {
+      "num": 402,
+      "sura": 29,
+      "aya": 46
+    },
+    {
+      "num": 403,
+      "sura": 29,
+      "aya": 53
+    },
+    {
+      "num": 404,
+      "sura": 29,
+      "aya": 64
+    },
+    {
+      "num": 405,
+      "sura": 30,
+      "aya": 5
+    },
+    {
+      "num": 406,
+      "sura": 30,
+      "aya": 15
+    },
+    {
+      "num": 407,
+      "sura": 30,
+      "aya": 24
+    },
+    {
+      "num": 408,
+      "sura": 30,
+      "aya": 32
+    },
+    {
+      "num": 409,
+      "sura": 30,
+      "aya": 41
+    },
+    {
+      "num": 410,
+      "sura": 30,
+      "aya": 50
+    },
+    {
+      "num": 411,
+      "sura": 31,
+      "aya": 1
+    },
+    {
+      "num": 412,
+      "sura": 31,
+      "aya": 11
+    },
+    {
+      "num": 413,
+      "sura": 31,
+      "aya": 19
+    },
+    {
+      "num": 414,
+      "sura": 31,
+      "aya": 28
+    },
+    {
+      "num": 415,
+      "sura": 32,
+      "aya": 1
+    },
+    {
+      "num": 416,
+      "sura": 32,
+      "aya": 12
+    },
+    {
+      "num": 417,
+      "sura": 32,
+      "aya": 21
+    },
+    {
+      "num": 418,
+      "sura": 33,
+      "aya": 1
+    },
+    {
+      "num": 419,
+      "sura": 33,
+      "aya": 7
+    },
+    {
+      "num": 420,
+      "sura": 33,
+      "aya": 16
+    },
+    {
+      "num": 421,
+      "sura": 33,
+      "aya": 23
+    },
+    {
+      "num": 422,
+      "sura": 33,
+      "aya": 31
+    },
+    {
+      "num": 423,
+      "sura": 33,
+      "aya": 36
+    },
+    {
+      "num": 424,
+      "sura": 33,
+      "aya": 44
+    },
+    {
+      "num": 425,
+      "sura": 33,
+      "aya": 51
+    },
+    {
+      "num": 426,
+      "sura": 33,
+      "aya": 55
+    },
+    {
+      "num": 427,
+      "sura": 33,
+      "aya": 63
+    },
+    {
+      "num": 428,
+      "sura": 34,
+      "aya": 1
+    },
+    {
+      "num": 429,
+      "sura": 34,
+      "aya": 8
+    },
+    {
+      "num": 430,
+      "sura": 34,
+      "aya": 15
+    },
+    {
+      "num": 431,
+      "sura": 34,
+      "aya": 23
+    },
+    {
+      "num": 432,
+      "sura": 34,
+      "aya": 32
+    },
+    {
+      "num": 433,
+      "sura": 34,
+      "aya": 40
+    },
+    {
+      "num": 434,
+      "sura": 34,
+      "aya": 49
+    },
+    {
+      "num": 435,
+      "sura": 35,
+      "aya": 4
+    },
+    {
+      "num": 436,
+      "sura": 35,
+      "aya": 12
+    },
+    {
+      "num": 437,
+      "sura": 35,
+      "aya": 19
+    },
+    {
+      "num": 438,
+      "sura": 35,
+      "aya": 31
+    },
+    {
+      "num": 439,
+      "sura": 35,
+      "aya": 39
+    },
+    {
+      "num": 440,
+      "sura": 35,
+      "aya": 46
+    },
+    {
+      "num": 441,
+      "sura": 36,
+      "aya": 12
+    },
+    {
+      "num": 442,
+      "sura": 36,
+      "aya": 27
+    },
+    {
+      "num": 443,
+      "sura": 36,
+      "aya": 40
+    },
+    {
+      "num": 444,
+      "sura": 36,
+      "aya": 54
+    },
+    {
+      "num": 445,
+      "sura": 36,
+      "aya": 70
+    },
+    {
+      "num": 446,
+      "sura": 37,
+      "aya": 1
+    },
+    {
+      "num": 447,
+      "sura": 37,
+      "aya": 25
+    },
+    {
+      "num": 448,
+      "sura": 37,
+      "aya": 52
+    },
+    {
+      "num": 449,
+      "sura": 37,
+      "aya": 77
+    },
+    {
+      "num": 450,
+      "sura": 37,
+      "aya": 103
+    },
+    {
+      "num": 451,
+      "sura": 37,
+      "aya": 127
+    },
+    {
+      "num": 452,
+      "sura": 37,
+      "aya": 154
+    },
+    {
+      "num": 453,
+      "sura": 38,
+      "aya": 1
+    },
+    {
+      "num": 454,
+      "sura": 38,
+      "aya": 16
+    },
+    {
+      "num": 455,
+      "sura": 38,
+      "aya": 26
+    },
+    {
+      "num": 456,
+      "sura": 38,
+      "aya": 42
+    },
+    {
+      "num": 457,
+      "sura": 38,
+      "aya": 61
+    },
+    {
+      "num": 458,
+      "sura": 38,
+      "aya": 83
+    },
+    {
+      "num": 459,
+      "sura": 39,
+      "aya": 7
+    },
+    {
+      "num": 460,
+      "sura": 39,
+      "aya": 12
+    },
+    {
+      "num": 461,
+      "sura": 39,
+      "aya": 21
+    },
+    {
+      "num": 462,
+      "sura": 39,
+      "aya": 31
+    },
+    {
+      "num": 463,
+      "sura": 39,
+      "aya": 38
+    },
+    {
+      "num": 464,
+      "sura": 39,
+      "aya": 45
+    },
+    {
+      "num": 465,
+      "sura": 39,
+      "aya": 54
+    },
+    {
+      "num": 466,
+      "sura": 39,
+      "aya": 65
+    },
+    {
+      "num": 467,
+      "sura": 39,
+      "aya": 72
+    },
+    {
+      "num": 468,
+      "sura": 40,
+      "aya": 7
+    },
+    {
+      "num": 469,
+      "sura": 40,
+      "aya": 16
+    },
+    {
+      "num": 470,
+      "sura": 40,
+      "aya": 26
+    },
+    {
+      "num": 471,
+      "sura": 40,
+      "aya": 34
+    },
+    {
+      "num": 472,
+      "sura": 40,
+      "aya": 41
+    },
+    {
+      "num": 473,
+      "sura": 40,
+      "aya": 50
+    },
+    {
+      "num": 474,
+      "sura": 40,
+      "aya": 59
+    },
+    {
+      "num": 475,
+      "sura": 40,
+      "aya": 67
+    },
+    {
+      "num": 476,
+      "sura": 40,
+      "aya": 77
+    },
+    {
+      "num": 477,
+      "sura": 41,
+      "aya": 1
+    },
+    {
+      "num": 478,
+      "sura": 41,
+      "aya": 11
+    },
+    {
+      "num": 479,
+      "sura": 41,
+      "aya": 20
+    },
+    {
+      "num": 480,
+      "sura": 41,
+      "aya": 29
+    },
+    {
+      "num": 481,
+      "sura": 41,
+      "aya": 38
+    },
+    {
+      "num": 482,
+      "sura": 41,
+      "aya": 46
+    },
+    {
+      "num": 483,
+      "sura": 42,
+      "aya": 1
+    },
+    {
+      "num": 484,
+      "sura": 42,
+      "aya": 9
+    },
+    {
+      "num": 485,
+      "sura": 42,
+      "aya": 14
+    },
+    {
+      "num": 486,
+      "sura": 42,
+      "aya": 21
+    },
+    {
+      "num": 487,
+      "sura": 42,
+      "aya": 30
+    },
+    {
+      "num": 488,
+      "sura": 42,
+      "aya": 42
+    },
+    {
+      "num": 489,
+      "sura": 42,
+      "aya": 49
+    },
+    {
+      "num": 490,
+      "sura": 43,
+      "aya": 10
+    },
+    {
+      "num": 491,
+      "sura": 43,
+      "aya": 22
+    },
+    {
+      "num": 492,
+      "sura": 43,
+      "aya": 33
+    },
+    {
+      "num": 493,
+      "sura": 43,
+      "aya": 47
+    },
+    {
+      "num": 494,
+      "sura": 43,
+      "aya": 61
+    },
+    {
+      "num": 495,
+      "sura": 43,
+      "aya": 74
+    },
+    {
+      "num": 496,
+      "sura": 44,
+      "aya": 1
+    },
+    {
+      "num": 497,
+      "sura": 44,
+      "aya": 18
+    },
+    {
+      "num": 498,
+      "sura": 44,
+      "aya": 38
+    },
+    {
+      "num": 499,
+      "sura": 45,
+      "aya": 1
+    },
+    {
+      "num": 500,
+      "sura": 45,
+      "aya": 13
+    },
+    {
+      "num": 501,
+      "sura": 45,
+      "aya": 22
+    },
+    {
+      "num": 502,
+      "sura": 45,
+      "aya": 32
+    },
+    {
+      "num": 503,
+      "sura": 46,
+      "aya": 5
+    },
+    {
+      "num": 504,
+      "sura": 46,
+      "aya": 14
+    },
+    {
+      "num": 505,
+      "sura": 46,
+      "aya": 20
+    },
+    {
+      "num": 506,
+      "sura": 46,
+      "aya": 28
+    },
+    {
+      "num": 507,
+      "sura": 47,
+      "aya": 1
+    },
+    {
+      "num": 508,
+      "sura": 47,
+      "aya": 13
+    },
+    {
+      "num": 509,
+      "sura": 47,
+      "aya": 21
+    },
+    {
+      "num": 510,
+      "sura": 47,
+      "aya": 31
+    },
+    {
+      "num": 511,
+      "sura": 48,
+      "aya": 1
+    },
+    {
+      "num": 512,
+      "sura": 48,
+      "aya": 10
+    },
+    {
+      "num": 513,
+      "sura": 48,
+      "aya": 16
+    },
+    {
+      "num": 514,
+      "sura": 48,
+      "aya": 24
+    },
+    {
+      "num": 515,
+      "sura": 48,
+      "aya": 29
+    },
+    {
+      "num": 516,
+      "sura": 49,
+      "aya": 5
+    },
+    {
+      "num": 517,
+      "sura": 49,
+      "aya": 12
+    },
+    {
+      "num": 518,
+      "sura": 50,
+      "aya": 1
+    },
+    {
+      "num": 519,
+      "sura": 50,
+      "aya": 16
+    },
+    {
+      "num": 520,
+      "sura": 50,
+      "aya": 36
+    },
+    {
+      "num": 521,
+      "sura": 51,
+      "aya": 7
+    },
+    {
+      "num": 522,
+      "sura": 51,
+      "aya": 31
+    },
+    {
+      "num": 523,
+      "sura": 51,
+      "aya": 52
+    },
+    {
+      "num": 524,
+      "sura": 52,
+      "aya": 13
+    },
+    {
+      "num": 525,
+      "sura": 52,
+      "aya": 30
+    },
+    {
+      "num": 526,
+      "sura": 53,
+      "aya": 1
+    },
+    {
+      "num": 527,
+      "sura": 53,
+      "aya": 27
+    },
+    {
+      "num": 528,
+      "sura": 53,
+      "aya": 44
+    },
+    {
+      "num": 529,
+      "sura": 54,
+      "aya": 7
+    },
+    {
+      "num": 530,
+      "sura": 54,
+      "aya": 28
+    },
+    {
+      "num": 531,
+      "sura": 54,
+      "aya": 50
+    },
+    {
+      "num": 532,
+      "sura": 55,
+      "aya": 17
+    },
+    {
+      "num": 533,
+      "sura": 55,
+      "aya": 41
+    },
+    {
+      "num": 534,
+      "sura": 55,
+      "aya": 69
+    },
+    {
+      "num": 535,
+      "sura": 56,
+      "aya": 19
+    },
+    {
+      "num": 536,
+      "sura": 56,
+      "aya": 54
+    },
+    {
+      "num": 537,
+      "sura": 56,
+      "aya": 80
+    },
+    {
+      "num": 538,
+      "sura": 57,
+      "aya": 4
+    },
+    {
+      "num": 539,
+      "sura": 57,
+      "aya": 12
+    },
+    {
+      "num": 540,
+      "sura": 57,
+      "aya": 18
+    },
+    {
+      "num": 541,
+      "sura": 57,
+      "aya": 24
+    },
+    {
+      "num": 542,
+      "sura": 58,
+      "aya": 1
+    },
+    {
+      "num": 543,
+      "sura": 58,
+      "aya": 7
+    },
+    {
+      "num": 544,
+      "sura": 58,
+      "aya": 12
+    },
+    {
+      "num": 545,
+      "sura": 58,
+      "aya": 21
+    },
+    {
+      "num": 546,
+      "sura": 59,
+      "aya": 4
+    },
+    {
+      "num": 547,
+      "sura": 59,
+      "aya": 10
+    },
+    {
+      "num": 548,
+      "sura": 59,
+      "aya": 17
+    },
+    {
+      "num": 549,
+      "sura": 60,
+      "aya": 1
+    },
+    {
+      "num": 550,
+      "sura": 60,
+      "aya": 6
+    },
+    {
+      "num": 551,
+      "sura": 60,
+      "aya": 12
+    },
+    {
+      "num": 552,
+      "sura": 61,
+      "aya": 6
+    },
+    {
+      "num": 553,
+      "sura": 62,
+      "aya": 1
+    },
+    {
+      "num": 554,
+      "sura": 62,
+      "aya": 9
+    },
+    {
+      "num": 555,
+      "sura": 63,
+      "aya": 5
+    },
+    {
+      "num": 556,
+      "sura": 64,
+      "aya": 1
+    },
+    {
+      "num": 557,
+      "sura": 64,
+      "aya": 10
+    },
+    {
+      "num": 558,
+      "sura": 65,
+      "aya": 1
+    },
+    {
+      "num": 559,
+      "sura": 65,
+      "aya": 6
+    },
+    {
+      "num": 560,
+      "sura": 66,
+      "aya": 1
+    },
+    {
+      "num": 561,
+      "sura": 66,
+      "aya": 8
+    },
+    {
+      "num": 562,
+      "sura": 67,
+      "aya": 1
+    },
+    {
+      "num": 563,
+      "sura": 67,
+      "aya": 14
+    },
+    {
+      "num": 564,
+      "sura": 67,
+      "aya": 28
+    },
+    {
+      "num": 565,
+      "sura": 68,
+      "aya": 17
+    },
+    {
+      "num": 566,
+      "sura": 68,
+      "aya": 43
+    },
+    {
+      "num": 567,
+      "sura": 69,
+      "aya": 8
+    },
+    {
+      "num": 568,
+      "sura": 69,
+      "aya": 36
+    },
+    {
+      "num": 569,
+      "sura": 70,
+      "aya": 11
+    },
+    {
+      "num": 570,
+      "sura": 70,
+      "aya": 41
+    },
+    {
+      "num": 571,
+      "sura": 71,
+      "aya": 11
+    },
+    {
+      "num": 572,
+      "sura": 72,
+      "aya": 1
+    },
+    {
+      "num": 573,
+      "sura": 72,
+      "aya": 14
+    },
+    {
+      "num": 574,
+      "sura": 73,
+      "aya": 1
+    },
+    {
+      "num": 575,
+      "sura": 73,
+      "aya": 18
+    },
+    {
+      "num": 576,
+      "sura": 74,
+      "aya": 19
+    },
+    {
+      "num": 577,
+      "sura": 74,
+      "aya": 47
+    },
+    {
+      "num": 578,
+      "sura": 75,
+      "aya": 19
+    },
+    {
+      "num": 579,
+      "sura": 76,
+      "aya": 6
+    },
+    {
+      "num": 580,
+      "sura": 76,
+      "aya": 26
+    },
+    {
+      "num": 581,
+      "sura": 77,
+      "aya": 20
+    },
+    {
+      "num": 582,
+      "sura": 78,
+      "aya": 1
+    },
+    {
+      "num": 583,
+      "sura": 78,
+      "aya": 31
+    },
+    {
+      "num": 584,
+      "sura": 79,
+      "aya": 17
+    },
+    {
+      "num": 585,
+      "sura": 80,
+      "aya": 1
+    },
+    {
+      "num": 586,
+      "sura": 80,
+      "aya": 41
+    },
+    {
+      "num": 587,
+      "sura": 82,
+      "aya": 1
+    },
+    {
+      "num": 588,
+      "sura": 83,
+      "aya": 5
+    },
+    {
+      "num": 589,
+      "sura": 83,
+      "aya": 34
+    },
+    {
+      "num": 590,
+      "sura": 84,
+      "aya": 25
+    },
+    {
+      "num": 591,
+      "sura": 86,
+      "aya": 1
+    },
+    {
+      "num": 592,
+      "sura": 87,
+      "aya": 11
+    },
+    {
+      "num": 593,
+      "sura": 88,
+      "aya": 23
+    },
+    {
+      "num": 594,
+      "sura": 89,
+      "aya": 25
+    },
+    {
+      "num": 595,
+      "sura": 90,
+      "aya": 19
+    },
+    {
+      "num": 596,
+      "sura": 92,
+      "aya": 10
+    },
+    {
+      "num": 597,
+      "sura": 94,
+      "aya": 3
+    },
+    {
+      "num": 598,
+      "sura": 96,
+      "aya": 13
+    },
+    {
+      "num": 599,
+      "sura": 98,
+      "aya": 6
+    },
+    {
+      "num": 600,
+      "sura": 100,
+      "aya": 6
+    },
+    {
+      "num": 601,
+      "sura": 103,
+      "aya": 1
+    },
+    {
+      "num": 602,
+      "sura": 106,
+      "aya": 1
+    },
+    {
+      "num": 603,
+      "sura": 109,
+      "aya": 1
+    },
+    {
+      "num": 604,
+      "sura": 112,
+      "aya": 1
+    }
+  ]
+}
